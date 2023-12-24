@@ -4,9 +4,9 @@
 \name{mbhR-package}
 \alias{mbhR}
 \alias{mbhR-package}
-\title{mbhR: Data Package With Data for mbhR classes}
+\title{mbhR: Data package with data for mbhR classes}
 \description{
-What the package does (one paragraph).
+This package contaons all the data needed for analysis in class R sessions or for self-study.
 }
 \author{
 \strong{Maintainer}: Michael Hunt \email{michael.hunt@cornwall.ac.uk} (\href{https://orcid.org/0009-0005-4394-7178}{ORCID})

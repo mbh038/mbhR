@@ -1,5 +1,5 @@
 Package: mbhR
-Title: Data Package With Data for mbhR classes
+Title: Data package with data for mbhR classes
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Michael",
@@ -7,7 +7,7 @@ Authors@R:
             email = "michael.hunt@cornwall.ac.uk",
             role = c("aut", "cre"),
            comment = c(ORCID = "0009-0005-4394-7178"))
-Description: What the package does (one paragraph).
+Description: This package contaons all the data needed for analysis in class R sessions or for self-study.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
