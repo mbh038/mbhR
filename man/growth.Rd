@@ -7,9 +7,9 @@
 \format{
 A tibble with 48 rows and 3 variables:
 \describe{
-\item{\code{supplement}}{chr suppllement: one of supergain, control or supersupp}
+\item{\code{supplement}}{chr suppllement: one of agrimore, supergain, control or supersupp}
 \item{\code{diet}}{chr diet: one of barley, oats or wheat}
-\item{\code{gain}}{dbl gain: weight gain in kg following a fixed period}
+\item{\code{gain}}{dbl gain: weight gain in kg after a fixed period}
 }
 }
 \source{
