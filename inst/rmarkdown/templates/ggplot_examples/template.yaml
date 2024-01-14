@@ -1,0 +1,7 @@
+name: ggplot_examples
+description: >
+   This is a template worksheet for you to fill in as you work through the ggplot_examples
+   worksheet. Follow th instructions in each code chunk and either enter code or amend what
+   is already there. Often, you will be extending or copying from code in previous chunks. All
+   the code you need is anyway in the worksheet.
+create_dir: FALSE
