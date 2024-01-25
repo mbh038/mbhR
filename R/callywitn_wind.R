@@ -9,4 +9,4 @@
 
 #' }
 #' @source Measured at Callywith wind turbine at h = 63 m 2010
-"callywith_wind_10min"
+"callywith_wind"
