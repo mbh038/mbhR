@@ -18,7 +18,7 @@ A tibble with 344 rows and 8 variables:
 }
 }
 \source{
-{From Alison Horst's palmerpenguins package - copied here for convenience}
+{From Allison Horst's palmerpenguins package - copied here for convenience}
 
 {Adélie penguins: Palmer Station Antarctica LTER and K. Gorman. 2020. Structural size measurements and isotopic signatures of foraging among adult male and female Adélie penguins (Pygoscelis adeliae) nesting along the Palmer Archipelago near Palmer Station, 2007-2009 ver 5. Environmental Data Initiative.} \doi{10.6073/pasta/98b16d7d563f265cb52372c8ca99e60f}
 
