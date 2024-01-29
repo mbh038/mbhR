@@ -8,5 +8,5 @@
 
 
 #' }
-#' @source Carland Cross wind warm, Cornwall
+#' @source Carland Cross wind farm, Cornwall
 "cc_turbines"
