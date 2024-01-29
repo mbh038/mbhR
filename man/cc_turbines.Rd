@@ -12,7 +12,7 @@ A tibble with 10 rows and 2 variables:
 }
 }
 \source{
-Carland Cross wind warm, Cornwall
+Carland Cross wind farm, Cornwall
 }
 \usage{
 cc_turbines
