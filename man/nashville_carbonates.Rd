@@ -3,7 +3,7 @@
 \docType{data}
 \name{nashville_carbonates}
 \alias{nashville_carbonates}
-\title{Geochemical data}
+\title{This data set has geochemical analyses of 200 limestone samples, including the major elements Al, Ca, Fe, Mg, Mn, and Si, stable isotope ratios of carbon and oxygen (d13C and d18O). It also records the stratigraphic position of the samples.}
 \format{
 A tibble with 200 rows and 10 variables:
 \describe{
@@ -30,6 +30,6 @@ A tibble with 200 rows and 10 variables:
 nashville_carbonates
 }
 \description{
-Geochemical data
+This data set has geochemical analyses of 200 limestone samples, including the major elements Al, Ca, Fe, Mg, Mn, and Si, stable isotope ratios of carbon and oxygen (d13C and d18O). It also records the stratigraphic position of the samples.
 }
 \keyword{datasets}
