@@ -6,8 +6,8 @@
 #' \describe{
 #'   \item{sampleID}{sample ID}
 #'   \item{stratPosition}{depth beneath the surface (cm)}
-#'   \item{d13C}{C13 concentration}
-#'   \item{d18O}{O18 concentration}
+#'   \item{d13C}{C13 stable isotope ratio}
+#'   \item{d18O}{O18 stable isotope ratio}
 #'   \item{Al}{Aluminium concentration}
 #'   \item{Ca}{Calcium concentration}
 #'   \item{Fe}{Iron concentration}
