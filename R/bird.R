@@ -1,5 +1,5 @@
 #' Data showing counts of various bird species observed in a range of habitats.
-#'#'
+#'
 #' @format A tibble with 6 rows and 6 variables:
 #' \describe{
 #'   \item{Species}{chr Which bird species}
