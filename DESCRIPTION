@@ -1,5 +1,5 @@
 Package: mbhR
-Title: Data package with data for mbhR classes
+Title: Data for mbhR classes
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Michael",

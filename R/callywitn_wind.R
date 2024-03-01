@@ -8,5 +8,5 @@
 
 
 #' }
-#' @source Measured at Callywith wind turbine at h = 63 m 2010
+#' @source Markov chain simulation based on 10 minute average data measured at Callywith wind turbine at h = 63 m 2010
 "callywith_wind"

@@ -12,7 +12,7 @@ A tibble with 52560 rows and 2 variables:
 }
 }
 \source{
-Measured at Callywith wind turbine at h = 63 m 2010
+Markov chain simulation based on 10 minute average data measured at Callywith wind turbine at h = 63 m 2010
 }
 \usage{
 callywith_wind

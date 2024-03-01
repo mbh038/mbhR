@@ -4,7 +4,7 @@
 \name{mbhR-package}
 \alias{mbhR}
 \alias{mbhR-package}
-\title{mbhR: Data package with data for mbhR classes}
+\title{mbhR: Data for mbhR classes}
 \description{
 This package contains all the data needed for analysis in class R sessions or for self-study.
 }
