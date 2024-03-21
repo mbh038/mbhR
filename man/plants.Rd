@@ -3,7 +3,7 @@
 \docType{data}
 \name{plants}
 \alias{plants}
-\title{Tidy data set of masses of male and female squirrels}
+\title{Tidy data set of plant growth rates vs soil moisture content}
 \format{
 A tibble with 100 rows and 2 variables:
 \describe{
@@ -18,6 +18,6 @@ From R4All https://github.com/R4All
 plants
 }
 \description{
-Tidy data set of masses of male and female squirrels
+Tidy data set of plant growth rates vs soil moisture content
 }
 \keyword{datasets}

@@ -1,4 +1,4 @@
-#' Tidy data set of masses of male and female squirrels
+#' Tidy data set of plant growth rates vs soil moisture content
 #'
 #'
 #' @format A tibble with 100 rows and 2 variables:
