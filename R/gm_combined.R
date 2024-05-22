@@ -12,5 +12,5 @@
 #'   \item{`life_expectancy`}{dbl: Life expectancy in years}
 
 #' }
-#' @source Gapminder.
+#' @source Gapminder: https://www.gapminder.org/data/
 "gm_combined"

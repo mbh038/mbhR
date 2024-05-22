@@ -17,7 +17,7 @@ A tibble with 2562 rows and 7 variables:
 }
 }
 \source{
-Gapminder.
+Gapminder: https://www.gapminder.org/data/
 }
 \usage{
 gm_combined
