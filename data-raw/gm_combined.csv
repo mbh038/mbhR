@@ -1,0 +1,2563 @@
+iso_a3,name,region,year,population,gdp_per_capita,life_expectancy
+afg,Afghanistan,Asia,1950,7752118,1040,31.98
+afg,Afghanistan,Asia,1955,8270581,1131,35.13
+afg,Afghanistan,Asia,1960,8996351,1213,38.65
+afg,Afghanistan,Asia,1965,9938414,1190,42.22
+afg,Afghanistan,Asia,1970,11126123,1183,45.78
+afg,Afghanistan,Asia,1975,12590286,1211,46.26
+afg,Afghanistan,Asia,1980,13248370,1168,43.26
+afg,Afghanistan,Asia,1985,11783050,1397,41.61
+afg,Afghanistan,Asia,1990,12249114,1038,51.61
+afg,Afghanistan,Asia,1995,17099541,881,51.07
+afg,Afghanistan,Asia,2000,20093756,972,51.63
+afg,Afghanistan,Asia,2005,25070798,1136,53.87
+afg,Afghanistan,Asia,2010,28803167,1614,56.2
+afg,Afghanistan,Asia,2015,33736494,1748,57.9
+alb,Albania,Europe,1950,1263174,1918,54.47
+alb,Albania,Europe,1955,1419970,2271,57.33
+alb,Albania,Europe,1960,1636056,2792,62.66
+alb,Albania,Europe,1965,1896125,3219,66.27
+alb,Albania,Europe,1970,2150598,3831,67.39
+alb,Albania,Europe,1975,2411229,4328,70.35
+alb,Albania,Europe,1980,2681239,4385,72.25
+alb,Albania,Europe,1985,2966798,4454,72.98
+alb,Albania,Europe,1990,3281454,4557,73.9
+alb,Albania,Europe,1995,3106736,4129,74.14
+alb,Albania,Europe,2000,3121970,5470,74.43
+alb,Albania,Europe,2005,3079179,7462,74.91
+alb,Albania,Europe,2010,2940525,9927,76.31
+alb,Albania,Europe,2015,2923352,11025,77.56
+dza,Algeria,Africa,1950,8872247,4003,46.85
+dza,Algeria,Africa,1955,9829719,4387,49.19
+dza,Algeria,Africa,1960,11124888,6517,52.01
+dza,Algeria,Africa,1965,12626952,5964,54.89
+dza,Algeria,Africa,1970,14550034,7290,57.49
+dza,Algeria,Africa,1975,16709099,8198,59.5
+dza,Algeria,Africa,1980,19337715,10273,62.13
+dza,Algeria,Africa,1985,22565905,11156,68.03
+dza,Algeria,Africa,1990,25912367,10237,71
+dza,Algeria,Africa,1995,28904298,9295,72.31
+dza,Algeria,Africa,2000,31183660,10211,73.87
+dza,Algeria,Africa,2005,33288437,12322,75.36
+dza,Algeria,Africa,2010,36117637,12870,76.55
+dza,Algeria,Africa,2015,39871528,13724,77.28
+ago,Angola,Africa,1950,4548023,3180,36.6
+ago,Angola,Africa,1955,5116071,3506,39.33
+ago,Angola,Africa,1960,5643182,3861,42.39
+ago,Angola,Africa,1965,6203299,4964,45.52
+ago,Angola,Africa,1970,6776381,5549,48.74
+ago,Angola,Africa,1975,7682479,5622,49.54
+ago,Angola,Africa,1980,8929900,4591,49.93
+ago,Angola,Africa,1985,10609042,4264,50.26
+ago,Angola,Africa,1990,12171441,4394,50.21
+ago,Angola,Africa,1995,14268994,2967,51.96
+ago,Angola,Africa,2000,16440924,3509,53.36
+ago,Angola,Africa,2005,19552542,3949,56.45
+ago,Angola,Africa,2010,23369131,5895,60.08
+ago,Angola,Africa,2015,27859305,6231,64
+atg,Antigua and Barbuda,Americas,1950,46303,3474,58.2
+atg,Antigua and Barbuda,Americas,1955,52897,3918,60.48
+atg,Antigua and Barbuda,Americas,1960,55339,4419,62.91
+atg,Antigua and Barbuda,Americas,1965,60781,4983,65.02
+atg,Antigua and Barbuda,Americas,1970,67098,5618,66.84
+atg,Antigua and Barbuda,Americas,1975,71609,6228,68.42
+atg,Antigua and Barbuda,Americas,1980,73442,7852,70.57
+atg,Antigua and Barbuda,Americas,1985,69782,10906,72.48
+atg,Antigua and Barbuda,Americas,1990,66696,16380,73.76
+atg,Antigua and Barbuda,Americas,1995,73619,16476,74.37
+atg,Antigua and Barbuda,Americas,2000,83584,18800,74.74
+atg,Antigua and Barbuda,Americas,2005,89253,20135,75.94
+atg,Antigua and Barbuda,Americas,2010,94661,19148,76.85
+atg,Antigua and Barbuda,Americas,2015,99923,20114,77.22
+arg,Argentina,Americas,1950,17150336,8317,60.62
+arg,Argentina,Americas,1955,18929346,8583,62.86
+arg,Argentina,Americas,1960,20619075,9025,64.06
+arg,Argentina,Americas,1965,22283390,10314,64.46
+arg,Argentina,Americas,1970,23973058,11861,65.36
+arg,Argentina,Americas,1975,26066975,12797,67.35
+arg,Argentina,Americas,1980,28105888,13500,69.85
+arg,Argentina,Americas,1985,30388783,11559,71.33
+arg,Argentina,Americas,1990,32729739,10816,72.14
+arg,Argentina,Americas,1995,34994814,13894,73.12
+arg,Argentina,Americas,2000,37057452,14900,74.21
+arg,Argentina,Americas,2005,39145488,15519,75.15
+arg,Argentina,Americas,2010,41223889,18712,75.82
+arg,Argentina,Americas,2015,43417765,19101,76.54
+arm,Armenia,Europe,1950,1353510,1864,58.66
+arm,Armenia,Europe,1955,1563505,2143,60.25
+arm,Armenia,Europe,1960,1874120,2517,62.01
+arm,Armenia,Europe,1965,2211316,2948,63.83
+arm,Armenia,Europe,1970,2525065,3537,65.46
+arm,Armenia,Europe,1975,2832757,3816,67.98
+arm,Armenia,Europe,1980,3099751,3821,69.63
+arm,Armenia,Europe,1985,3335935,3811,70.69
+arm,Armenia,Europe,1990,3538165,3742,70.24
+arm,Armenia,Europe,1995,3217342,2173,69.26
+arm,Armenia,Europe,2000,3069588,2925,71.85
+arm,Armenia,Europe,2005,2981259,5357,72.5
+arm,Armenia,Europe,2010,2877311,6703,73.34
+arm,Armenia,Europe,2015,2916950,8180,75.38
+aus,Australia,Asia,1950,8177342,12067,69.33
+aus,Australia,Asia,1955,9210908,13077,70.51
+aus,Australia,Asia,1960,10289707,14339,71.25
+aus,Australia,Asia,1965,11363313,16593,71.36
+aus,Australia,Asia,1970,12842907,19709,71.21
+aus,Australia,Asia,1975,13831206,21695,72.72
+aus,Australia,Asia,1980,14649114,23857,74.58
+aus,Australia,Asia,1985,15729643,25856,75.67
+aus,Australia,Asia,1990,17041431,28583,77.04
+aus,Australia,Asia,1995,18076743,30379,78.31
+aus,Australia,Asia,2000,19065837,35281,79.7
+aus,Australia,Asia,2005,20238903,38855,81.07
+aus,Australia,Asia,2010,22120064,41385,81.98
+aus,Australia,Asia,2015,23799556,43832,82.56
+aut,Austria,Europe,1950,6936439,6939,64.83
+aut,Austria,Europe,1955,6953406,9404,67.54
+aut,Austria,Europe,1960,7070766,12073,68.72
+aut,Austria,Europe,1965,7305158,14275,69.89
+aut,Austria,Europe,1970,7516239,17953,70.04
+aut,Austria,Europe,1975,7637689,21479,71.24
+aut,Austria,Europe,1980,7609752,25407,72.51
+aut,Austria,Europe,1985,7614868,27273,73.87
+aut,Austria,Europe,1990,7723949,31265,75.51
+aut,Austria,Europe,1995,7990121,33709,76.68
+aut,Austria,Europe,2000,8069276,38812,78.12
+aut,Austria,Europe,2005,8253650,41155,79.48
+aut,Austria,Europe,2010,8409949,43175,80.5
+aut,Austria,Europe,2015,8678657,44075,81.4
+aze,Azerbaijan,Europe,1950,2927921,3638,54.45
+aze,Azerbaijan,Europe,1955,3329387,4254,56.03
+aze,Azerbaijan,Europe,1960,3895396,5081,57.79
+aze,Azerbaijan,Europe,1965,4592610,6012,59.59
+aze,Azerbaijan,Europe,1970,5180025,7285,61.21
+aze,Azerbaijan,Europe,1975,5674137,7994,64.35
+aze,Azerbaijan,Europe,1980,6150738,8228,65.47
+aze,Azerbaijan,Europe,1985,6666455,8435,65.9
+aze,Azerbaijan,Europe,1990,7242770,8513,66.22
+aze,Azerbaijan,Europe,1995,7775426,3320,64.89
+aze,Azerbaijan,Europe,2000,8122741,4459,66.56
+aze,Azerbaijan,Europe,2005,8538606,8052,67.64
+aze,Azerbaijan,Europe,2010,9032457,15950,69.13
+aze,Azerbaijan,Europe,2015,9617484,16699,71.79
+bhs,Bahamas,Americas,1950,79085,10324,58.38
+bhs,Bahamas,Americas,1955,88617,12373,60.17
+bhs,Bahamas,Americas,1960,109528,14827,61.92
+bhs,Bahamas,Americas,1965,140054,19156,63.46
+bhs,Bahamas,Americas,1970,169354,21211,64.82
+bhs,Bahamas,Americas,1975,188882,14320,66.75
+bhs,Bahamas,Americas,1980,210661,22748,68.05
+bhs,Bahamas,Americas,1985,234687,24155,69.18
+bhs,Bahamas,Americas,1990,256336,24281,70.54
+bhs,Bahamas,Americas,1995,280150,22111,70.57
+bhs,Bahamas,Americas,2000,297890,25847,71.28
+bhs,Bahamas,Americas,2005,329249,25385,72.98
+bhs,Bahamas,Americas,2010,360832,22895,73.79
+bhs,Bahamas,Americas,2015,386838,21670,73.63
+bhr,Bahrain,Asia,1950,115611,16047,41.84
+bhr,Bahrain,Asia,1955,133585,19612,46.32
+bhr,Bahrain,Asia,1960,162427,22613,52.83
+bhr,Bahrain,Asia,1965,187431,25754,59.53
+bhr,Bahrain,Asia,1970,212605,31354,64.75
+bhr,Bahrain,Asia,1975,266543,33650,67.79
+bhr,Bahrain,Asia,1980,359888,45199,70.36
+bhr,Bahrain,Asia,1985,419430,32285,70.85
+bhr,Bahrain,Asia,1990,495931,35578,69.76
+bhr,Bahrain,Asia,1995,563699,43464,70.32
+bhr,Bahrain,Asia,2000,664614,45537,71.67
+bhr,Bahrain,Asia,2005,889168,43774,73.61
+bhr,Bahrain,Asia,2010,1240862,41107,76.03
+bhr,Bahrain,Asia,2015,1371855,44508,76.79
+bgd,Bangladesh,Asia,1950,37894681,1032,40.28
+bgd,Bangladesh,Asia,1955,42121524,977,41.67
+bgd,Bangladesh,Asia,1960,48199747,1055,43.83
+bgd,Bangladesh,Asia,1965,55834038,1185,46.07
+bgd,Bangladesh,Asia,1970,65047770,1236,43.97
+bgd,Bangladesh,Asia,1975,71305923,1045,52.41
+bgd,Bangladesh,Asia,1980,81470860,1089,53.82
+bgd,Bangladesh,Asia,1985,93199865,1154,55.26
+bgd,Bangladesh,Asia,1990,106188642,1288,58.11
+bgd,Bangladesh,Asia,1995,118706871,1438,61.73
+bgd,Bangladesh,Asia,2000,131581243,1642,65.48
+bgd,Bangladesh,Asia,2005,143431101,1930,68.04
+bgd,Bangladesh,Asia,2010,152149102,2443,70.39
+bgd,Bangladesh,Asia,2015,161200886,3133,72.41
+brb,Barbados,Americas,1950,210992,3027,58.96
+brb,Barbados,Americas,1955,227073,3887,61.7
+brb,Barbados,Americas,1960,230939,4992,64.5
+brb,Barbados,Americas,1965,235374,6405,67.04
+brb,Barbados,Americas,1970,238848,9165,69.28
+brb,Barbados,Americas,1975,246034,10392,70.95
+brb,Barbados,Americas,1980,252194,13145,72.64
+brb,Barbados,Americas,1985,255924,12380,73.24
+brb,Barbados,Americas,1990,260374,13298,73.54
+brb,Barbados,Americas,1995,264959,12423,73.71
+brb,Barbados,Americas,2000,269847,14440,74.87
+brb,Barbados,Americas,2005,274009,15074,75.9
+brb,Barbados,Americas,2010,279569,15346,76.68
+brb,Barbados,Americas,2015,284217,15390,76.59
+blr,Belarus,Europe,1950,7745002,2859,63.99
+blr,Belarus,Europe,1955,7803537,3325,65.84
+blr,Belarus,Europe,1960,8184631,3951,70.58
+blr,Belarus,Europe,1965,8568454,4643,71.65
+blr,Belarus,Europe,1970,8977639,5590,70.89
+blr,Belarus,Europe,1975,9316955,6292,71.16
+blr,Belarus,Europe,1980,9633888,6970,70.45
+blr,Belarus,Europe,1985,9966154,7690,70.46
+blr,Belarus,Europe,1990,10216846,8354,70.56
+blr,Belarus,Europe,1995,10142308,5452,68.29
+blr,Belarus,Europe,2000,9933609,7563,68.46
+blr,Belarus,Europe,2005,9621543,11213,68.88
+blr,Belarus,Europe,2010,9473071,16235,70.43
+blr,Belarus,Europe,2015,9485772,17230,73.29
+bel,Belgium,Europe,1950,8637519,10295,66.34
+bel,Belgium,Europe,1955,8887274,11709,68.56
+bel,Belgium,Europe,1960,9167365,12585,69.63
+bel,Belgium,Europe,1965,9443939,15328,70.56
+bel,Belgium,Europe,1970,9632180,18860,70.95
+bel,Belgium,Europe,1975,9771586,22141,72.05
+bel,Belgium,Europe,1980,9868995,25777,73.22
+bel,Belgium,Europe,1985,9916578,26713,74.48
+bel,Belgium,Europe,1990,10006544,30701,75.95
+bel,Belgium,Europe,1995,10186305,32670,76.86
+bel,Belgium,Europe,2000,10282033,37253,77.8
+bel,Belgium,Europe,2005,10546886,39872,79.11
+bel,Belgium,Europe,2010,10938739,41087,79.98
+bel,Belgium,Europe,2015,11287940,41723,80.86
+blz,Belize,Americas,1950,68919,1865,55.41
+blz,Belize,Americas,1955,79870,1934,57.96
+blz,Belize,Americas,1960,92064,2006,60.72
+blz,Belize,Americas,1965,106119,2153,63.64
+blz,Belize,Americas,1970,122182,2509,66.47
+blz,Belize,Americas,1975,133260,3315,68.21
+blz,Belize,Americas,1980,144155,4147,69.3
+blz,Belize,Americas,1985,164921,3704,70.97
+blz,Belize,Americas,1990,187552,5165,71.65
+blz,Belize,Americas,1995,206963,6207,70.69
+blz,Belize,Americas,2000,247315,6959,68.87
+blz,Belize,Americas,2005,283277,7872,70.02
+blz,Belize,Americas,2010,321608,7875,71.38
+blz,Belize,Americas,2015,359288,8061,71.93
+ben,Benin,Africa,1950,2255226,1289,35.68
+ben,Benin,Africa,1955,2303587,1180,38.34
+ben,Benin,Africa,1960,2431622,1186,41.09
+ben,Benin,Africa,1965,2632356,1248,43.94
+ben,Benin,Africa,1970,2912340,1269,47.21
+ben,Benin,Africa,1975,3265165,1208,49.57
+ben,Benin,Africa,1980,3717165,1424,51.53
+ben,Benin,Africa,1985,4278501,1614,53.72
+ben,Benin,Africa,1990,4978496,1463,55.46
+ben,Benin,Africa,1995,5905558,1515,56.46
+ben,Benin,Africa,2000,6865951,1666,57.56
+ben,Benin,Africa,2005,7982225,1736,59.47
+ben,Benin,Africa,2010,9199259,1819,61.82
+ben,Benin,Africa,2015,10575952,1987,63.9
+btn,Bhutan,Asia,1950,176797,848,36.17
+btn,Bhutan,Asia,1955,197457,898,38.72
+btn,Bhutan,Asia,1960,223288,951,41.69
+btn,Bhutan,Asia,1965,254464,1006,44.61
+btn,Bhutan,Asia,1970,298301,1065,48.77
+btn,Bhutan,Asia,1975,349982,955,51.19
+btn,Bhutan,Asia,1980,409172,1128,53.29
+btn,Bhutan,Asia,1985,467178,1381,56.35
+btn,Bhutan,Asia,1990,537280,2325,59.9
+btn,Bhutan,Asia,1995,514877,2897,62.9
+btn,Bhutan,Asia,2000,573416,3539,65.62
+btn,Bhutan,Asia,2005,656639,4522,69.56
+btn,Bhutan,Asia,2010,727641,6420,72.13
+btn,Bhutan,Asia,2015,787386,7736,73.77
+bol,Bolivia,Americas,1950,3089646,3204,42.93
+bol,Bolivia,Americas,1955,3365360,3099,44.53
+bol,Bolivia,Americas,1960,3693449,2690,46.37
+bol,Bolivia,Americas,1965,4070590,3028,48.29
+bol,Bolivia,Americas,1970,4505778,3655,50.19
+bol,Bolivia,Americas,1975,5009257,4231,53.39
+bol,Bolivia,Americas,1980,5589575,4330,56.36
+bol,Bolivia,Americas,1985,6211550,3676,58.67
+bol,Bolivia,Americas,1990,6856244,3707,61.35
+bol,Bolivia,Americas,1995,7566714,4106,64.3
+bol,Bolivia,Americas,2000,8339512,4412,67.66
+bol,Bolivia,Americas,2005,9125409,4695,70.08
+bol,Bolivia,Americas,2010,9918242,5407,71.64
+bol,Bolivia,Americas,2015,10724705,6532,73.01
+bih,Bosnia and Herzegovina,Europe,1950,2661296,1256,51.58
+bih,Bosnia and Herzegovina,Europe,1955,2936309,1376,56.47
+bih,Bosnia and Herzegovina,Europe,1960,3225668,1760,60.57
+bih,Bosnia and Herzegovina,Europe,1965,3535640,2088,63.62
+bih,Bosnia and Herzegovina,Europe,1970,3760527,2399,66.44
+bih,Bosnia and Herzegovina,Europe,1975,3985103,2897,68.08
+bih,Bosnia and Herzegovina,Europe,1980,4179855,3397,69.57
+bih,Bosnia and Herzegovina,Europe,1985,4392130,3291,70.88
+bih,Bosnia and Herzegovina,Europe,1990,4463422,2782,72.08
+bih,Bosnia and Herzegovina,Europe,1995,3843712,1827,68.87
+bih,Bosnia and Herzegovina,Europe,2000,3766706,6327,74.83
+bih,Bosnia and Herzegovina,Europe,2005,3781530,8315,75.74
+bih,Bosnia and Herzegovina,Europe,2010,3722084,9717,76.75
+bih,Bosnia and Herzegovina,Europe,2015,3535961,10902,77.36
+bwa,Botswana,Africa,1950,412531,837,48.04
+bwa,Botswana,Africa,1955,469740,909,50.01
+bwa,Botswana,Africa,1960,524552,972,52.12
+bwa,Botswana,Africa,1965,597190,1058,53.99
+bwa,Botswana,Africa,1970,695597,1572,56.53
+bwa,Botswana,Africa,1975,825840,2979,59.48
+bwa,Botswana,Africa,1980,1001158,4308,61.65
+bwa,Botswana,Africa,1985,1189114,5846,63.88
+bwa,Botswana,Africa,1990,1377912,8110,64.41
+bwa,Botswana,Africa,1995,1569094,8904,56.36
+bwa,Botswana,Africa,2000,1728340,10411,46.67
+bwa,Botswana,Africa,2005,1855852,11583,47.75
+bwa,Botswana,Africa,2010,2014866,13334,57.06
+bwa,Botswana,Africa,2015,2209197,15356,64.64
+bra,Brazil,Americas,1950,53974729,3032,51.78
+bra,Brazil,Americas,1955,62569196,3545,54.16
+bra,Brazil,Americas,1960,72207554,4436,56.84
+bra,Brazil,Americas,1965,83498020,4674,59.29
+bra,Brazil,Americas,1970,95326793,5936,61.43
+bra,Brazil,Americas,1975,107612100,8605,63.65
+bra,Brazil,Americas,1980,121159761,10934,65.86
+bra,Brazil,Americas,1985,135676281,10508,66.99
+bra,Brazil,Americas,1990,149352145,10345,68.52
+bra,Brazil,Americas,1995,162296612,11072,69.74
+bra,Brazil,Americas,2000,175287587,11371,71.44
+bra,Brazil,Americas,2005,186917361,12299,72.98
+bra,Brazil,Americas,2010,196796269,14539,74.19
+bra,Brazil,Americas,2015,205962108,14666,75.17
+brn,Brunei,Asia,1950,48001,56560,55.52
+brn,Brunei,Asia,1955,63420,61567,58.13
+brn,Brunei,Asia,1960,81745,67009,61.04
+brn,Brunei,Asia,1965,102425,72920,63.56
+brn,Brunei,Asia,1970,129583,79342,65.58
+brn,Brunei,Asia,1975,161671,96790,69.23
+brn,Brunei,Asia,1980,193949,131597,69.9
+brn,Brunei,Asia,1985,224512,95126,72.25
+brn,Brunei,Asia,1990,258785,84672,73.53
+brn,Brunei,Asia,1995,297192,86116,74.4
+brn,Brunei,Asia,2000,333241,82050,76
+brn,Brunei,Asia,2005,365158,82967,76.79
+brn,Brunei,Asia,2010,388662,80553,77.08
+brn,Brunei,Asia,2015,417542,74600,76.93
+bgr,Bulgaria,Europe,1950,7250999,2756,61.23
+bgr,Bulgaria,Europe,1955,7561405,3583,64.64
+bgr,Bulgaria,Europe,1960,7885525,4855,68.98
+bgr,Bulgaria,Europe,1965,8222470,6415,71.09
+bgr,Bulgaria,Europe,1970,8507476,7949,71.04
+bgr,Bulgaria,Europe,1975,8738361,9706,71.25
+bgr,Bulgaria,Europe,1980,8878775,10054,71.25
+bgr,Bulgaria,Europe,1985,8975291,10350,71.34
+bgr,Bulgaria,Europe,1990,8841371,9297,71.48
+bgr,Bulgaria,Europe,1995,8379180,8446,71.02
+bgr,Bulgaria,Europe,2000,7997787,8958,71.75
+bgr,Bulgaria,Europe,2005,7683763,12681,72.66
+bgr,Bulgaria,Europe,2010,7404590,15283,73.86
+bgr,Bulgaria,Europe,2015,7177396,17000,75.03
+bfa,Burkina Faso,Africa,1950,4284461,524,33.22
+bfa,Burkina Faso,Africa,1955,4517155,590,35.82
+bfa,Burkina Faso,Africa,1960,4829288,659,38.62
+bfa,Burkina Faso,Africa,1965,5174870,731,41.55
+bfa,Burkina Faso,Africa,1970,5624600,790,44.38
+bfa,Burkina Faso,Africa,1975,6154545,703,46.07
+bfa,Burkina Faso,Africa,1980,6822843,759,48.21
+bfa,Burkina Faso,Africa,1985,7727907,801,50.08
+bfa,Burkina Faso,Africa,1990,8811034,821,50.61
+bfa,Burkina Faso,Africa,1995,10089878,869,50.68
+bfa,Burkina Faso,Africa,2000,11607942,1046,52.16
+bfa,Burkina Faso,Africa,2005,13421930,1232,55.06
+bfa,Burkina Faso,Africa,2010,15605217,1425,57.89
+bfa,Burkina Faso,Africa,2015,18110624,1551,60.34
+bdi,Burundi,Africa,1950,2308920,513,39.03
+bdi,Burundi,Africa,1955,2531184,586,40.44
+bdi,Burundi,Africa,1960,2786106,645,42.02
+bdi,Burundi,Africa,1965,3077876,624,43.64
+bdi,Burundi,Africa,1970,3455606,802,44.69
+bdi,Burundi,Africa,1975,3671494,802,45.19
+bdi,Burundi,Africa,1980,4116817,914,46.31
+bdi,Burundi,Africa,1985,4702066,1027,47.6
+bdi,Burundi,Africa,1990,5415415,1087,47.99
+bdi,Burundi,Africa,1995,5962058,870,46.95
+bdi,Burundi,Africa,2000,6400706,754,47.91
+bdi,Burundi,Africa,2005,7423289,724,53.11
+bdi,Burundi,Africa,2010,8766930,764,57.73
+bdi,Burundi,Africa,2015,10199270,749,59.99
+khm,Cambodia,Asia,1950,4432714,1109,42.09
+khm,Cambodia,Asia,1955,5045288,1193,43.22
+khm,Cambodia,Asia,1960,5722370,1548,43.9
+khm,Cambodia,Asia,1965,6467197,1590,45
+khm,Cambodia,Asia,1970,6994848,1656,44.68
+khm,Cambodia,Asia,1975,7522593,1105,24.75
+khm,Cambodia,Asia,1980,6692107,847,52.54
+khm,Cambodia,Asia,1985,7712978,795,54.15
+khm,Cambodia,Asia,1990,8973342,1007,57.37
+khm,Cambodia,Asia,1995,10653558,1103,58.16
+khm,Cambodia,Asia,2000,12152354,1376,59.47
+khm,Cambodia,Asia,2005,13270201,1969,62.88
+khm,Cambodia,Asia,2010,14308740,2523,66.12
+khm,Cambodia,Asia,2015,15517635,3291,68.32
+cmr,Cameroon,Africa,1950,4307022,1461,41.56
+cmr,Cameroon,Africa,1955,4704233,1657,43.52
+cmr,Cameroon,Africa,1960,5176268,1846,46.1
+cmr,Cameroon,Africa,1965,5777834,1955,48.8
+cmr,Cameroon,Africa,1970,6527635,2217,51.71
+cmr,Cameroon,Africa,1975,7457362,2395,53.64
+cmr,Cameroon,Africa,1980,8618354,2742,55.6
+cmr,Cameroon,Africa,1985,10050023,3779,57.82
+cmr,Cameroon,Africa,1990,11715218,2852,58.45
+cmr,Cameroon,Africa,1995,13460994,2264,56.49
+cmr,Cameroon,Africa,2000,15274234,2507,54.46
+cmr,Cameroon,Africa,2005,17420795,2637,54.87
+cmr,Cameroon,Africa,2010,19970495,2655,57.25
+cmr,Cameroon,Africa,2015,22834522,2991,59.66
+can,Canada,Americas,1950,13733402,12044,68.36
+can,Canada,Americas,1955,15738362,13541,70.13
+can,Canada,Americas,1960,17917236,14450,71.13
+can,Canada,Americas,1965,19703883,17292,71.89
+can,Canada,Americas,1970,21452737,19904,72.75
+can,Canada,Americas,1975,23156209,23674,73.68
+can,Canada,Americas,1980,24537422,26778,75.29
+can,Canada,Americas,1985,25873949,29134,76.5
+can,Canada,Americas,1990,27692680,31300,77.43
+can,Canada,Americas,1995,29330073,32226,78.05
+can,Canada,Americas,2000,30735773,37432,79.21
+can,Canada,Americas,2005,32287980,40471,80.18
+can,Canada,Americas,2010,34168668,40699,81.29
+can,Canada,Americas,2015,35949709,42983,81.74
+cpv,Cape Verde,Africa,1950,178066,787,51.72
+cpv,Cape Verde,Africa,1955,197421,787,52.62
+cpv,Cape Verde,Africa,1960,202310,837,53.6
+cpv,Cape Verde,Africa,1965,231428,919,54.53
+cpv,Cape Verde,Africa,1970,270198,959,57.57
+cpv,Cape Verde,Africa,1975,272423,787,61.61
+cpv,Cape Verde,Africa,1980,286657,1217,65.21
+cpv,Cape Verde,Africa,1985,315069,1507,65.66
+cpv,Cape Verde,Africa,1990,341883,1657,67.82
+cpv,Cape Verde,Africa,1995,389127,2423,67.19
+cpv,Cape Verde,Africa,2000,435079,3835,69.75
+cpv,Cape Verde,Africa,2005,474567,4643,71.09
+cpv,Cape Verde,Africa,2010,502384,5828,72.45
+cpv,Cape Verde,Africa,2015,532913,5919,73.39
+caf,Central African Republic,Africa,1950,1326652,1212,36.53
+caf,Central African Republic,Africa,1955,1399487,1344,38.88
+caf,Central African Republic,Africa,1960,1503508,1426,41.43
+caf,Central African Republic,Africa,1965,1648833,1322,44.28
+caf,Central African Republic,Africa,1970,1828709,1346,48.26
+caf,Central African Republic,Africa,1975,2017372,1170,48.43
+caf,Central African Republic,Africa,1980,2279821,1091,49.63
+caf,Central African Republic,Africa,1985,2634232,987,49.98
+caf,Central African Republic,Africa,1990,2939780,932,48.21
+caf,Central African Republic,Africa,1995,3352767,858,46.2
+caf,Central African Republic,Africa,2000,3754986,819,44.48
+caf,Central African Republic,Africa,2005,4127910,816,45.02
+caf,Central African Republic,Africa,2010,4448525,888,47.48
+caf,Central African Republic,Africa,2015,4546100,626,49.71
+tcd,Chad,Africa,1950,2502317,1225,40.97
+tcd,Chad,Africa,1955,2735208,1368,42.63
+tcd,Chad,Africa,1960,3001593,1474,44.52
+tcd,Chad,Africa,1965,3309573,1386,46.45
+tcd,Chad,Africa,1970,3643549,1337,49.18
+tcd,Chad,Africa,1975,4087948,1440,51.21
+tcd,Chad,Africa,1980,4512042,890,51.23
+tcd,Chad,Africa,1985,5091535,1201,52.4
+tcd,Chad,Africa,1990,5956859,1110,53.26
+tcd,Chad,Africa,1995,7000722,1041,53.45
+tcd,Chad,Africa,2000,8342559,993,52.16
+tcd,Chad,Africa,2005,10067009,1793,53.85
+tcd,Chad,Africa,2010,11887202,1925,56.49
+tcd,Chad,Africa,2015,14009413,2048,59.19
+chl,Chile,Americas,1950,6188284,5146,55.33
+chl,Chile,Americas,1955,6906838,5550,56.5
+chl,Chile,Americas,1960,7716625,5943,58.2
+chl,Chile,Americas,1965,8617077,6359,60.54
+chl,Chile,Americas,1970,9563865,7264,63.43
+chl,Chile,Americas,1975,10435534,5952,67.17
+chl,Chile,Americas,1980,11266226,7935,70.21
+chl,Chile,Americas,1985,12181028,7046,72.15
+chl,Chile,Americas,1990,13242132,8992,73.52
+chl,Chile,Americas,1995,14296613,12172,75.4
+chl,Chile,Americas,2000,15262754,14315,77.24
+chl,Chile,Americas,2005,16147064,17008,78.37
+chl,Chile,Americas,2010,16993354,19442,79.12
+chl,Chile,Americas,2015,17762681,22537,80.13
+chn,China,Asia,1950,554419275,536,40.73
+chn,China,Asia,1955,610834396,708,46.97
+chn,China,Asia,1960,657686143,891,30.9
+chn,China,Asia,1965,722562183,774,54.29
+chn,China,Asia,1970,824788457,851,61.04
+chn,China,Asia,1975,920945083,924,63.26
+chn,China,Asia,1980,993877310,1078,64.22
+chn,China,Asia,1985,1070863389,1566,66.08
+chn,China,Asia,1990,1172445200,1526,67.05
+chn,China,Asia,1995,1239940004,2564,68.36
+chn,China,Asia,2000,1283198970,3701,70.03
+chn,China,Asia,2005,1321623490,5719,72.4
+chn,China,Asia,2010,1359755102,9526,74.59
+chn,China,Asia,2015,1397028553,13570,76.26
+col,Colombia,Americas,1950,12340899,3139,51.61
+col,Colombia,Americas,1955,14225204,3371,56.95
+col,Colombia,Americas,1960,16480383,3479,61
+col,Colombia,Americas,1965,19144223,3709,63.76
+col,Colombia,Americas,1970,22061215,4238,65.96
+col,Colombia,Americas,1975,24756973,5092,66.44
+col,Colombia,Americas,1980,27737900,6218,69.01
+col,Colombia,Americas,1985,31011688,6440,68
+col,Colombia,Americas,1990,34271565,7534,71.38
+col,Colombia,Americas,1995,37441977,8443,71.99
+col,Colombia,Americas,2000,40403958,8308,73.25
+col,Colombia,Americas,2005,43285634,9264,75
+col,Colombia,Americas,2010,45918097,10901,76.44
+col,Colombia,Americas,2015,48228697,12985,78.05
+com,Comoros,Africa,1950,159459,808,42.4
+com,Comoros,Africa,1955,175903,902,44.08
+com,Comoros,Africa,1960,191121,1027,46.25
+com,Comoros,Africa,1965,207424,1310,48.53
+com,Comoros,Africa,1970,230054,1428,51.14
+com,Comoros,Africa,1975,257290,1578,52.94
+com,Comoros,Africa,1980,307829,1640,54.49
+com,Comoros,Africa,1985,355337,1723,56.6
+com,Comoros,Africa,1990,411594,1600,58.63
+com,Comoros,Africa,1995,475394,1438,59.99
+com,Comoros,Africa,2000,542357,1481,61.48
+com,Comoros,Africa,2005,611627,1472,64.29
+com,Comoros,Africa,2010,689692,1413,65.93
+com,Comoros,Africa,2015,777424,1413,67.27
+cod,"Congo, Dem. Rep.",Africa,1950,12183659,1568,42.82
+cod,"Congo, Dem. Rep.",Africa,1955,13517513,2137,44.82
+cod,"Congo, Dem. Rep.",Africa,1960,15248251,2235,46.5
+cod,"Congo, Dem. Rep.",Africa,1965,17369883,2027,48.12
+cod,"Congo, Dem. Rep.",Africa,1970,20009935,2107,50.33
+cod,"Congo, Dem. Rep.",Africa,1975,22902319,2046,51.62
+cod,"Congo, Dem. Rep.",Africa,1980,26357462,1578,52.64
+cod,"Congo, Dem. Rep.",Africa,1985,29883446,1510,54.19
+cod,"Congo, Dem. Rep.",Africa,1990,34614581,1280,53.82
+cod,"Congo, Dem. Rep.",Africa,1995,41595744,731,53.14
+cod,"Congo, Dem. Rep.",Africa,2000,47076387,529,53.37
+cod,"Congo, Dem. Rep.",Africa,2005,54751476,549,55.36
+cod,"Congo, Dem. Rep.",Africa,2010,64523263,609,57.53
+cod,"Congo, Dem. Rep.",Africa,2015,76196619,750,60.93
+cog,"Congo, Rep.",Africa,1950,827252,1823,38.79
+cog,"Congo, Rep.",Africa,1955,920218,2003,41.78
+cog,"Congo, Rep.",Africa,1960,1037220,2167,44.88
+cog,"Congo, Rep.",Africa,1965,1184316,2293,47.3
+cog,"Congo, Rep.",Africa,1970,1364812,3291,48.83
+cog,"Congo, Rep.",Africa,1975,1590039,3713,50.98
+cog,"Congo, Rep.",Africa,1980,1839935,4152,53.05
+cog,"Congo, Rep.",Africa,1985,2127770,6031,54.98
+cog,"Congo, Rep.",Africa,1990,2440457,5140,54.08
+cog,"Congo, Rep.",Africa,1995,2799255,4582,52.68
+cog,"Congo, Rep.",Africa,2000,3225727,4480,52.78
+cog,"Congo, Rep.",Africa,2005,3718243,4743,56.6
+cog,"Congo, Rep.",Africa,2010,4386693,5186,60.43
+cog,"Congo, Rep.",Africa,2015,4995648,5543,62.64
+cri,Costa Rica,Americas,1950,959495,3029,57.55
+cri,Costa Rica,Americas,1955,1119617,3826,60.31
+cri,Costa Rica,Americas,1960,1333040,4258,63.38
+cri,Costa Rica,Americas,1965,1589621,4942,66.31
+cri,Costa Rica,Americas,1970,1848866,5979,68.94
+cri,Costa Rica,Americas,1975,2097407,7055,71.83
+cri,Costa Rica,Americas,1980,2389310,7940,74.6
+cri,Costa Rica,Americas,1985,2730233,7069,75.93
+cri,Costa Rica,Americas,1990,3095995,7787,76.57
+cri,Costa Rica,Americas,1995,3510926,8961,77.02
+cri,Costa Rica,Americas,2000,3925443,9878,78
+cri,Costa Rica,Americas,2005,4247841,11025,79.35
+cri,Costa Rica,Americas,2010,4545280,13000,80.4
+cri,Costa Rica,Americas,2015,4807852,14914,80.92
+civ,Cote d'Ivoire,Africa,1950,2630131,2056,35.33
+civ,Cote d'Ivoire,Africa,1955,3029303,2231,38.28
+civ,Cote d'Ivoire,Africa,1960,3558988,2492,42.43
+civ,Cote d'Ivoire,Africa,1965,4321791,3066,46.48
+civ,Cote d'Ivoire,Africa,1970,5242395,3764,51
+civ,Cote d'Ivoire,Africa,1975,6608609,4118,53.59
+civ,Cote d'Ivoire,Africa,1980,8293675,4024,56.09
+civ,Cote d'Ivoire,Africa,1985,10222558,3308,56.47
+civ,Cote d'Ivoire,Africa,1990,12267754,3194,55.03
+civ,Cote d'Ivoire,Africa,1995,14540820,2898,52.89
+civ,Cote d'Ivoire,Africa,2000,16686561,2948,52.65
+civ,Cote d'Ivoire,Africa,2005,18336303,2682,53.66
+civ,Cote d'Ivoire,Africa,2010,20401331,2690,56.34
+civ,Cote d'Ivoire,Africa,2015,23108472,3251,59.22
+hrv,Croatia,Europe,1950,3850297,4885,59.93
+hrv,Croatia,Europe,1955,4030414,5662,62.15
+hrv,Croatia,Europe,1960,4192634,7679,64.36
+hrv,Croatia,Europe,1965,4328920,9676,66.24
+hrv,Croatia,Europe,1970,4423072,11831,67.93
+hrv,Croatia,Europe,1975,4500865,15239,69.33
+hrv,Croatia,Europe,1980,4598129,19101,70.43
+hrv,Croatia,Europe,1985,4716117,19829,71.05
+hrv,Croatia,Europe,1990,4776372,18005,72.19
+hrv,Croatia,Europe,1995,4616763,12625,72.29
+hrv,Croatia,Europe,2000,4428072,15745,73.88
+hrv,Croatia,Europe,2005,4378057,19545,75.13
+hrv,Croatia,Europe,2010,4328153,20118,76.33
+hrv,Croatia,Europe,2015,4236016,20636,77.31
+cub,Cuba,Americas,1950,5919993,8782,59.69
+cub,Cuba,Americas,1955,6539469,8931,62.49
+cub,Cuba,Americas,1960,7141135,9417,65.63
+cub,Cuba,Americas,1965,7951933,9339,68.95
+cub,Cuba,Americas,1970,8715123,9157,72
+cub,Cuba,Americas,1975,9438442,11505,73.47
+cub,Cuba,Americas,1980,9835177,12679,74.17
+cub,Cuba,Americas,1985,10082989,14627,74.54
+cub,Cuba,Americas,1990,10582081,14184,74.84
+cub,Cuba,Americas,1995,10906043,9266,75.23
+cub,Cuba,Americas,2000,11150736,11622,76.58
+cub,Cuba,Americas,2005,11284253,14076,77.61
+cub,Cuba,Americas,2010,11333051,18293,78.39
+cub,Cuba,Americas,2015,11461432,19963,78.89
+cyp,Cyprus,Europe,1950,494015,3710,64.19
+cyp,Cyprus,Europe,1955,529972,4526,65.99
+cyp,Cyprus,Europe,1960,572930,5522,67.66
+cyp,Cyprus,Europe,1965,580966,6736,69.09
+cyp,Cyprus,Europe,1970,613621,8215,70.31
+cyp,Cyprus,Europe,1975,649755,8429,71.15
+cyp,Cyprus,Europe,1980,685406,14315,72.84
+cyp,Cyprus,Europe,1985,703687,17773,74.04
+cyp,Cyprus,Europe,1990,766614,23301,74.93
+cyp,Cyprus,Europe,1995,855384,26465,75.72
+cyp,Cyprus,Europe,2000,943286,30086,76.83
+cyp,Cyprus,Europe,2005,1027658,33663,78.04
+cyp,Cyprus,Europe,2010,1112607,33941,79.88
+cyp,Cyprus,Europe,2015,1160985,30383,80.47
+cze,Czech Republic,Europe,1950,8902619,8133,64.52
+cze,Czech Republic,Europe,1955,9361762,9126,69.07
+cze,Czech Republic,Europe,1960,9590187,11903,70.57
+cze,Czech Republic,Europe,1965,9811407,12910,70.39
+cze,Czech Republic,Europe,1970,9817817,15107,69.65
+cze,Czech Republic,Europe,1975,10070144,17306,70.46
+cze,Czech Republic,Europe,1980,10349271,18688,70.6
+cze,Czech Republic,Europe,1985,10331370,19608,71.13
+cze,Czech Republic,Europe,1990,10341169,19965,71.82
+cze,Czech Republic,Europe,1995,10358456,19215,73.34
+cze,Czech Republic,Europe,2000,10289594,21137,74.99
+cze,Czech Republic,Europe,2005,10258176,25734,76.19
+cze,Czech Republic,Europe,2010,10536286,28290,77.47
+cze,Czech Republic,Europe,2015,10603762,30381,78.92
+dnk,Denmark,Europe,1950,4268271,12105,70.31
+dnk,Denmark,Europe,1955,4440778,12867,71.9
+dnk,Denmark,Europe,1960,4581101,15336,72.18
+dnk,Denmark,Europe,1965,4760460,19112,72.37
+dnk,Denmark,Europe,1970,4931241,22243,73.35
+dnk,Denmark,Europe,1975,5062729,24148,74.13
+dnk,Denmark,Europe,1980,5123945,27290,74.38
+dnk,Denmark,Europe,1985,5114243,31493,74.71
+dnk,Denmark,Europe,1990,5141115,33786,75.2
+dnk,Denmark,Europe,1995,5232704,37238,75.57
+dnk,Denmark,Europe,2000,5341194,42338,76.92
+dnk,Denmark,Europe,2005,5421702,44568,78.08
+dnk,Denmark,Europe,2010,5554844,43998,79.49
+dnk,Denmark,Europe,2015,5688695,45484,80.74
+dji,Djibouti,Africa,1950,62001,3175,47.36
+dji,Djibouti,Africa,1955,69589,3461,49.63
+dji,Djibouti,Africa,1960,83636,3764,52.6
+dji,Djibouti,Africa,1965,114963,3734,55.64
+dji,Djibouti,Africa,1970,159659,4410,59.78
+dji,Djibouti,Africa,1975,224183,4409,60.84
+dji,Djibouti,Africa,1980,358960,3551,61.1
+dji,Djibouti,Africa,1985,425613,3763,61.08
+dji,Djibouti,Africa,1990,590398,3102,61.27
+dji,Djibouti,Africa,1995,630388,2482,61.37
+dji,Djibouti,Africa,2000,717584,2131,61.37
+dji,Djibouti,Africa,2005,783254,2260,62.04
+dji,Djibouti,Africa,2010,851146,2635,63.69
+dji,Djibouti,Africa,2015,927414,3139,66.07
+dom,Dominican Republic,Americas,1950,2364654,2056,48.24
+dom,Dominican Republic,Americas,1955,2780652,2388,52.49
+dom,Dominican Republic,Americas,1960,3294042,2651,56.95
+dom,Dominican Republic,Americas,1965,3878948,2583,61.13
+dom,Dominican Republic,Americas,1970,4503114,3229,64.95
+dom,Dominican Republic,Americas,1975,5149935,4399,67.14
+dom,Dominican Republic,Americas,1980,5809269,4979,69.15
+dom,Dominican Republic,Americas,1985,6488856,4847,69.97
+dom,Dominican Republic,Americas,1990,7183647,5267,70.82
+dom,Dominican Republic,Americas,1995,7892423,6189,72.09
+dom,Dominican Republic,Americas,2000,8562622,7964,73.21
+dom,Dominican Republic,Americas,2005,9237566,8778,73.48
+dom,Dominican Republic,Americas,2010,9897985,11124,74.6
+dom,Dominican Republic,Americas,2015,10528394,13372,75.52
+ecu,Ecuador,Americas,1950,3470159,3402,50.76
+ecu,Ecuador,Americas,1955,3957485,3978,53.72
+ecu,Ecuador,Americas,1960,4545550,4450,57.55
+ecu,Ecuador,Americas,1965,5250119,5079,60.71
+ecu,Ecuador,Americas,1970,6072527,5687,63.1
+ecu,Ecuador,Americas,1975,6987391,6843,65.27
+ecu,Ecuador,Americas,1980,7976445,8081,67.75
+ecu,Ecuador,Americas,1985,9045979,7813,69.88
+ecu,Ecuador,Americas,1990,10218091,7472,71.44
+ecu,Ecuador,Americas,1995,11440583,7726,72.82
+ecu,Ecuador,Americas,2000,12628596,7388,74.27
+ecu,Ecuador,Americas,2005,13735233,8608,75.61
+ecu,Ecuador,Americas,2010,14934690,9352,76.72
+ecu,Ecuador,Americas,2015,16144368,10777,77.94
+egy,Egypt,Africa,1950,20713331,1721,38.09
+egy,Egypt,Africa,1955,23523384,1725,43.66
+egy,Egypt,Africa,1960,26996533,2030,47.53
+egy,Egypt,Africa,1965,30875964,2478,49.99
+egy,Egypt,Africa,1970,35046273,3015,51.53
+egy,Egypt,Africa,1975,39187702,3146,54.8
+egy,Egypt,Africa,1980,44099142,4508,58.82
+egy,Egypt,Africa,1985,50204985,5443,61.1
+egy,Egypt,Africa,1990,57412215,5909,65.31
+egy,Egypt,Africa,1995,63714386,6293,67.69
+egy,Egypt,Africa,2000,69905988,7388,69.88
+egy,Egypt,Africa,2005,76778149,8002,70.27
+egy,Egypt,Africa,2010,84107606,9857,70.52
+egy,Egypt,Africa,2015,93778172,10096,71.92
+slv,El Salvador,Americas,1950,2199898,3437,44.7
+slv,El Salvador,Americas,1955,2429333,3717,48.93
+slv,El Salvador,Americas,1960,2762899,3999,53.22
+slv,El Salvador,Americas,1965,3197863,4719,56.65
+slv,El Salvador,Americas,1970,3668595,4866,58.85
+slv,El Salvador,Americas,1975,4147525,5518,61.87
+slv,El Salvador,Americas,1980,4580704,5136,64.81
+slv,El Salvador,Americas,1985,4923860,4548,64.62
+slv,El Salvador,Americas,1990,5254984,4530,68.17
+slv,El Salvador,Americas,1995,5611115,5725,70.26
+slv,El Salvador,Americas,2000,5867626,6364,72.19
+slv,El Salvador,Americas,2005,6028961,6956,73.07
+slv,El Salvador,Americas,2010,6164626,7300,74.11
+slv,El Salvador,Americas,2015,6312478,7845,75.04
+gnq,Equatorial Guinea,Africa,1950,225537,478,36.94
+gnq,Equatorial Guinea,Africa,1955,239375,548,38.62
+gnq,Equatorial Guinea,Africa,1960,255323,659,40.47
+gnq,Equatorial Guinea,Africa,1965,277396,1133,42.35
+gnq,Equatorial Guinea,Africa,1970,306515,1152,44.24
+gnq,Equatorial Guinea,Africa,1975,259747,1136,46.01
+gnq,Equatorial Guinea,Africa,1980,255325,1294,48.62
+gnq,Equatorial Guinea,Africa,1985,358896,1185,49.4
+gnq,Equatorial Guinea,Africa,1990,426846,1000,48.18
+gnq,Equatorial Guinea,Africa,1995,504871,1715,47.89
+gnq,Equatorial Guinea,Africa,2000,614323,10793,54.36
+gnq,Equatorial Guinea,Africa,2005,757317,31372,58.08
+gnq,Equatorial Guinea,Africa,2010,951104,33723,60.93
+gnq,Equatorial Guinea,Africa,2015,1175389,27238,65.21
+eri,Eritrea,Africa,1950,1142148,812,38.83
+eri,Eritrea,Africa,1955,1249193,880,40
+eri,Eritrea,Africa,1960,1397491,919,41.36
+eri,Eritrea,Africa,1965,1589179,1016,43.1
+eri,Eritrea,Africa,1970,1811878,1087,45.34
+eri,Eritrea,Africa,1975,2075965,1017,47.09
+eri,Eritrea,Africa,1980,2385540,997,48.51
+eri,Eritrea,Africa,1985,2753151,832,49.88
+eri,Eritrea,Africa,1990,3113311,908,52.35
+eri,Eritrea,Africa,1995,3090159,1586,56.56
+eri,Eritrea,Africa,2000,3392801,1679,58.15
+eri,Eritrea,Africa,2005,3969007,1629,60.45
+eri,Eritrea,Africa,2010,4390840,1416,61.66
+eri,Eritrea,Africa,2015,4846976,1244,63.35
+est,Estonia,Europe,1950,1100995,5109,58.51
+est,Estonia,Europe,1955,1159231,6001,65.53
+est,Estonia,Europe,1960,1216819,7200,69.18
+est,Estonia,Europe,1965,1290396,8517,70.54
+est,Estonia,Europe,1970,1360202,10320,70.21
+est,Estonia,Europe,1975,1422042,11561,69.91
+est,Estonia,Europe,1980,1474436,12536,69.29
+est,Estonia,Europe,1985,1522397,13540,69.53
+est,Estonia,Europe,1990,1565242,14398,70.05
+est,Estonia,Europe,1995,1433024,11362,67.86
+est,Estonia,Europe,2000,1399112,15703,70.79
+est,Estonia,Europe,2005,1355648,22807,72.8
+est,Estonia,Europe,2010,1332102,22741,76
+est,Estonia,Europe,2015,1315321,27329,77.23
+eth,Ethiopia,Africa,1950,18128034,579,33.78
+eth,Ethiopia,Africa,1955,19947292,628,35.78
+eth,Ethiopia,Africa,1960,22151278,656,39.04
+eth,Ethiopia,Africa,1965,25013626,726,39.67
+eth,Ethiopia,Africa,1970,28415077,778,43.72
+eth,Ethiopia,Africa,1975,32566821,728,43.64
+eth,Ethiopia,Africa,1980,35264898,715,44.62
+eth,Ethiopia,Africa,1985,40800343,597,45.88
+eth,Ethiopia,Africa,1990,48086516,652,46.63
+eth,Ethiopia,Africa,1995,57309880,575,49.89
+eth,Ethiopia,Africa,2000,66537331,618,51.14
+eth,Ethiopia,Africa,2005,76727083,732,56.11
+eth,Ethiopia,Africa,2010,87702670,1074,61.3
+eth,Ethiopia,Africa,2015,99873033,1533,65.15
+fji,Fiji,Asia,1950,288988,2770,54.27
+fji,Fiji,Asia,1955,334976,3147,57.04
+fji,Fiji,Asia,1960,393386,3575,59.75
+fji,Fiji,Asia,1965,463883,3549,62.21
+fji,Fiji,Asia,1970,520529,4493,64.49
+fji,Fiji,Asia,1975,576595,5389,64.28
+fji,Fiji,Asia,1980,635255,6017,64.81
+fji,Fiji,Asia,1985,711661,5360,65.57
+fji,Fiji,Asia,1990,728628,5891,65.39
+fji,Fiji,Asia,1995,775498,6287,64.63
+fji,Fiji,Asia,2000,811223,6674,64.3
+fji,Fiji,Asia,2005,821817,7427,64.89
+fji,Fiji,Asia,2010,859950,7352,65.28
+fji,Fiji,Asia,2015,892149,8756,65.46
+fin,Finland,Europe,1950,4008294,7231,64.01
+fin,Finland,Europe,1955,4238275,8849,67.11
+fin,Finland,Europe,1960,4434590,10624,68.73
+fin,Finland,Europe,1965,4568598,13095,68.83
+fin,Finland,Europe,1970,4612366,16369,70.04
+fin,Finland,Europe,1975,4718749,19572,71.65
+fin,Finland,Europe,1980,4788243,22167,73.55
+fin,Finland,Europe,1985,4911220,24875,74.49
+fin,Finland,Europe,1990,4996222,28906,74.99
+fin,Finland,Europe,1995,5119005,27596,76.61
+fin,Finland,Europe,2000,5187954,34887,77.73
+fin,Finland,Europe,2005,5258927,39116,78.93
+fin,Finland,Europe,2010,5365782,39848,80
+fin,Finland,Europe,2015,5481966,38994,81.5
+fra,France,Europe,1950,41879605,7920,66.61
+fra,France,Europe,1955,43527762,9460,68.72
+fra,France,Europe,1960,45865396,11653,70.67
+fra,France,Europe,1965,48952255,14531,71.44
+fra,France,Europe,1970,50843829,18208,72.47
+fra,France,Europe,1975,53010730,20880,73.23
+fra,France,Europe,1980,54070817,23998,74.59
+fra,France,Europe,1985,55397482,25960,75.84
+fra,France,Europe,1990,56960835,29528,77.16
+fra,France,Europe,1995,58241791,30932,78.12
+fra,France,Europe,2000,59608201,34896,79.09
+fra,France,Europe,2005,61233900,36522,80.34
+fra,France,Europe,2010,63026740,36872,81.42
+fra,France,Europe,2015,64457201,37766,82.22
+gab,Gabon,Africa,1950,473298,661,39.29
+gab,Gabon,Africa,1955,482560,976,41.85
+gab,Gabon,Africa,1960,499184,1439,43.7
+gab,Gabon,Africa,1965,532511,2823,47.01
+gab,Gabon,Africa,1970,590118,4684,52.08
+gab,Gabon,Africa,1975,649716,18286,55.11
+gab,Gabon,Africa,1980,729159,27924,57.74
+gab,Gabon,Africa,1985,830085,23306,59.2
+gab,Gabon,Africa,1990,952212,19501,59.46
+gab,Gabon,Africa,1995,1086137,19896,59.67
+gab,Gabon,Africa,2000,1231122,17783,59.15
+gab,Gabon,Africa,2005,1403126,17004,59.99
+gab,Gabon,Africa,2010,1640210,15356,62.86
+gab,Gabon,Africa,2015,1930175,16837,66
+gmb,Gambia,Africa,1950,271377,991,40.48
+gmb,Gambia,Africa,1955,304029,1092,42.83
+gmb,Gambia,Africa,1960,367928,1196,45.14
+gmb,Gambia,Africa,1965,400861,1412,48.79
+gmb,Gambia,Africa,1970,447285,1478,55
+gmb,Gambia,Africa,1975,521070,1778,56.87
+gmb,Gambia,Africa,1980,604369,1772,58.68
+gmb,Gambia,Africa,1985,732096,1323,60.37
+gmb,Gambia,Africa,1990,916808,1517,61.59
+gmb,Gambia,Africa,1995,1066223,1447,62.67
+gmb,Gambia,Africa,2000,1231844,1560,63.32
+gmb,Gambia,Africa,2005,1444204,1544,64.3
+gmb,Gambia,Africa,2010,1692149,1656,65.55
+gmb,Gambia,Africa,2015,1977590,1588,67.04
+geo,Georgia,Europe,1950,3527008,2347,57.59
+geo,Georgia,Europe,1955,3713121,2741,59.18
+geo,Georgia,Europe,1960,4007713,3268,60.95
+geo,Georgia,Europe,1965,4371521,3873,62.76
+geo,Georgia,Europe,1970,4713322,5207,64.29
+geo,Georgia,Europe,1975,4873619,6604,66.85
+geo,Georgia,Europe,1980,5017818,8814,68.95
+geo,Georgia,Europe,1985,5211441,10565,69.74
+geo,Georgia,Europe,1990,5410372,8007,69.57
+geo,Georgia,Europe,1995,5020061,2295,70.44
+geo,Georgia,Europe,2000,4722059,3264,71.71
+geo,Georgia,Europe,2005,4486547,4902,72.03
+geo,Georgia,Europe,2010,4231661,6734,72.82
+geo,Georgia,Europe,2015,3951524,9025,73.68
+deu,Germany,Europe,1950,69966243,7231,66.83
+deu,Germany,Europe,1955,71537537,10963,68.19
+deu,Germany,Europe,1960,73414427,14755,69.17
+deu,Germany,Europe,1965,76255926,17767,70.54
+deu,Germany,Europe,1970,78572984,21127,70.61
+deu,Germany,Europe,1975,78866498,23517,71.52
+deu,Germany,Europe,1980,78300650,27622,72.96
+deu,Germany,Europe,1985,77717431,29685,74.23
+deu,Germany,Europe,1990,79118326,31287,75.28
+deu,Germany,Europe,1995,81240604,33653,76.49
+deu,Germany,Europe,2000,81487757,36765,77.89
+deu,Germany,Europe,2005,81671234,37704,79.15
+deu,Germany,Europe,2010,80894785,40429,80.09
+deu,Germany,Europe,2015,81707789,43784,80.84
+gha,Ghana,Africa,1950,4980875,1681,45.04
+gha,Ghana,Africa,1955,5680410,1822,47.87
+gha,Ghana,Africa,1960,6652287,2246,50.76
+gha,Ghana,Africa,1965,7710549,2290,53.24
+gha,Ghana,Africa,1970,8596983,2455,55.23
+gha,Ghana,Africa,1975,9831407,2190,56.74
+gha,Ghana,Africa,1980,10802028,2090,57.56
+gha,Ghana,Africa,1985,12716228,1740,57.92
+gha,Ghana,Africa,1990,14628260,1920,58.81
+gha,Ghana,Africa,1995,16760467,2066,59.49
+gha,Ghana,Africa,2000,18938762,2259,59.34
+gha,Ghana,Africa,2005,21542009,2539,60.15
+gha,Ghana,Africa,2010,24512104,3059,62.16
+gha,Ghana,Africa,2015,27582821,3930,65.43
+grc,Greece,Europe,1950,7668794,3780,67.29
+grc,Greece,Europe,1955,8011124,4930,68.35
+grc,Greece,Europe,1960,8271788,6150,70.44
+grc,Greece,Europe,1965,8450504,8819,72.07
+grc,Greece,Europe,1970,8659795,12194,73.49
+grc,Greece,Europe,1975,9009917,15357,74.58
+grc,Greece,Europe,1980,9634504,18071,77.11
+grc,Greece,Europe,1985,9974739,19003,76.22
+grc,Greece,Europe,1990,10248537,20686,77.01
+grc,Greece,Europe,1995,10789375,21247,77.81
+grc,Greece,Europe,2000,11142119,24839,78.64
+grc,Greece,Europe,2005,11301204,29559,79.63
+grc,Greece,Europe,2010,11446005,28726,80.41
+grc,Greece,Europe,2015,11217800,24095,80.96
+grd,Grenada,Americas,1950,76681,1655,57.66
+grd,Grenada,Americas,1955,81024,1852,60.37
+grd,Grenada,Americas,1960,89869,2073,63.04
+grd,Grenada,Americas,1965,94581,2319,65.35
+grd,Grenada,Americas,1970,94426,2595,67.35
+grd,Grenada,Americas,1975,92448,3628,69.34
+grd,Grenada,Americas,1980,89005,4810,70.19
+grd,Grenada,Americas,1985,99906,5092,70.05
+grd,Grenada,Americas,1990,96283,7242,70.86
+grd,Grenada,Americas,1995,100255,7119,71.41
+grd,Grenada,Americas,2000,101619,9651,71.23
+grd,Grenada,Americas,2005,102949,11894,71.07
+grd,Grenada,Americas,2010,104677,11178,71.34
+grd,Grenada,Americas,2015,106823,12735,71.39
+gtm,Guatemala,Americas,1950,3114957,3078,40.59
+gtm,Guatemala,Americas,1955,3625300,2965,42.14
+gtm,Guatemala,Americas,1960,4210747,3301,44.56
+gtm,Guatemala,Americas,1965,4869716,3718,47.42
+gtm,Guatemala,Americas,1970,5621792,4475,50.81
+gtm,Guatemala,Americas,1975,6433728,5279,55.83
+gtm,Guatemala,Americas,1980,7283459,6253,58.9
+gtm,Guatemala,Americas,1985,8240060,5145,62.03
+gtm,Guatemala,Americas,1990,9263813,5101,64.63
+gtm,Guatemala,Americas,1995,10408489,5598,66.62
+gtm,Guatemala,Americas,2000,11650743,6071,68.63
+gtm,Guatemala,Americas,2005,13096028,6269,69.8
+gtm,Guatemala,Americas,2010,14630417,6714,71.25
+gtm,Guatemala,Americas,2015,16252429,7293,72.55
+gin,Guinea,Africa,1950,3093654,614,38.55
+gin,Guinea,Africa,1955,3316135,712,40.35
+gin,Guinea,Africa,1960,3577409,805,42.15
+gin,Guinea,Africa,1965,3877806,912,43.58
+gin,Guinea,Africa,1970,4219770,963,45.13
+gin,Guinea,Africa,1975,4364514,1073,46.17
+gin,Guinea,Africa,1980,4511902,1162,48.14
+gin,Guinea,Africa,1985,5084767,1081,49.91
+gin,Guinea,Africa,1990,6041094,1124,52.01
+gin,Guinea,Africa,1995,7871173,1044,53.37
+gin,Guinea,Africa,2000,8808546,1131,54.67
+gin,Guinea,Africa,2005,9679745,1197,56.17
+gin,Guinea,Africa,2010,10794170,1194,57.99
+gin,Guinea,Africa,2015,12091533,1184,60.04
+gnb,Guinea-Bissau,Africa,1950,535430,837,36.19
+gnb,Guinea-Bissau,Africa,1955,575382,1029,37.6
+gnb,Guinea-Bissau,Africa,1960,616409,1211,39
+gnb,Guinea-Bissau,Africa,1965,652562,1515,39.75
+gnb,Guinea-Bissau,Africa,1970,711827,1760,40.37
+gnb,Guinea-Bissau,Africa,1975,778470,1857,44.97
+gnb,Guinea-Bissau,Africa,1980,800854,1505,46.67
+gnb,Guinea-Bissau,Africa,1985,899509,1685,47.58
+gnb,Guinea-Bissau,Africa,1990,1012280,1570,49.23
+gnb,Guinea-Bissau,Africa,1995,1137122,1634,50.91
+gnb,Guinea-Bissau,Africa,2000,1243229,1360,52.27
+gnb,Guinea-Bissau,Africa,2005,1380838,1335,53.21
+gnb,Guinea-Bissau,Africa,2010,1555880,1393,55.65
+gnb,Guinea-Bissau,Africa,2015,1770526,1424,58.18
+guy,Guyana,Americas,1950,406559,4064,57.99
+guy,Guyana,Americas,1955,482555,3552,58.67
+guy,Guyana,Americas,1960,571819,3104,59.4
+guy,Guyana,Americas,1965,651868,3141,60.1
+guy,Guyana,Americas,1970,704934,3548,60.8
+guy,Guyana,Americas,1975,745841,4062,61.88
+guy,Guyana,Americas,1980,780153,3814,63.32
+guy,Guyana,Americas,1985,770435,3087,64.27
+guy,Guyana,Americas,1990,743309,2837,64.37
+guy,Guyana,Americas,1995,761291,3904,65.16
+guy,Guyana,Americas,2000,753301,4513,65.61
+guy,Guyana,Americas,2005,750946,4689,64.79
+guy,Guyana,Americas,2010,746556,5836,65.49
+guy,Guyana,Americas,2015,768514,7063,67.01
+hti,Haiti,Americas,1950,3221283,2285,35.28
+hti,Haiti,Americas,1955,3514074,2261,38.04
+hti,Haiti,Americas,1960,3866159,2297,40.88
+hti,Haiti,Americas,1965,4271133,2008,43.56
+hti,Haiti,Americas,1970,4708642,1976,45.6
+hti,Haiti,Americas,1975,5140357,2256,48.26
+hti,Haiti,Americas,1980,5688836,2858,50.35
+hti,Haiti,Americas,1985,6384195,2478,52.46
+hti,Haiti,Americas,1990,7099732,2251,54.06
+hti,Haiti,Americas,1995,7819806,1679,55.12
+hti,Haiti,Americas,2000,8549200,1739,56.8
+hti,Haiti,Americas,2005,9263404,1562,58.03
+hti,Haiti,Americas,2010,9999617,1502,32.11
+hti,Haiti,Americas,2015,10711061,1651,63.88
+hnd,Honduras,Americas,1950,1546724,2396,43.85
+hnd,Honduras,Americas,1955,1771351,2341,46.45
+hnd,Honduras,Americas,1960,2038637,2511,50.1
+hnd,Honduras,Americas,1965,2346010,2685,53.87
+hnd,Honduras,Americas,1970,2716659,2751,57.34
+hnd,Honduras,Americas,1975,3153261,3037,60.76
+hnd,Honduras,Americas,1980,3678286,3584,64.12
+hnd,Honduras,Americas,1985,4281189,3230,65.48
+hnd,Honduras,Americas,1990,4955328,3172,67.29
+hnd,Honduras,Americas,1995,5709051,3276,68.54
+hnd,Honduras,Americas,2000,6524283,3329,69.57
+hnd,Honduras,Americas,2005,7373430,3697,70.58
+hnd,Honduras,Americas,2010,8194778,3971,71.58
+hnd,Honduras,Americas,2015,8960829,4311,72.49
+hun,Hungary,Europe,1950,9337723,5920,62.01
+hun,Hungary,Europe,1955,9828441,7523,66.81
+hun,Hungary,Europe,1960,10001017,9140,68.01
+hun,Hungary,Europe,1965,10169931,11247,69.09
+hun,Hungary,Europe,1970,10366340,13010,69.15
+hun,Hungary,Europe,1975,10527270,15109,69.41
+hun,Hungary,Europe,1980,10754766,16509,69.31
+hun,Hungary,Europe,1985,10566817,17261,69.14
+hun,Hungary,Europe,1990,10377651,17098,69.57
+hun,Hungary,Europe,1995,10349838,15244,70.16
+hun,Hungary,Europe,2000,10221051,17855,71.8
+hun,Hungary,Europe,2005,10086465,22307,73.09
+hun,Hungary,Europe,2010,9927840,22277,74.52
+hun,Hungary,Europe,2015,9783925,24831,75.65
+isl,Iceland,Europe,1950,142659,8727,71.11
+isl,Iceland,Europe,1955,157642,10629,73.41
+isl,Iceland,Europe,1960,175592,11089,74.21
+isl,Iceland,Europe,1965,192313,14314,73.96
+isl,Iceland,Europe,1970,204426,15103,73.94
+isl,Iceland,Europe,1975,218070,19255,75.2
+isl,Iceland,Europe,1980,228262,24908,76.74
+isl,Iceland,Europe,1985,241582,26375,77.39
+isl,Iceland,Europe,1990,255043,29116,78.04
+isl,Iceland,Europe,1995,267629,28106,78.49
+isl,Iceland,Europe,2000,280435,34097,79.88
+isl,Iceland,Europe,2005,294979,39770,81.18
+isl,Iceland,Europe,2010,320328,38815,82.03
+isl,Iceland,Europe,2015,330243,42674,82.24
+ind,India,Asia,1950,376325200,904,34.92
+ind,India,Asia,1955,409269055,957,37.99
+ind,India,Asia,1960,449480608,1041,41.51
+ind,India,Asia,1965,497702365,1044,45.28
+ind,India,Asia,1970,553578513,1160,49
+ind,India,Asia,1975,621301720,1200,51.51
+ind,India,Asia,1980,696783517,1256,54.43
+ind,India,Asia,1985,781666671,1445,56.81
+ind,India,Asia,1990,870133480,1755,58.99
+ind,India,Asia,1995,960482795,2037,60.77
+ind,India,Asia,2000,1053050912,2495,62.34
+ind,India,Asia,2005,1144118674,3179,64.23
+ind,India,Asia,2010,1230980691,4405,66.2
+ind,India,Asia,2015,1309053980,5754,68.18
+idn,Indonesia,Asia,1950,69543316,1454,37.16
+idn,Indonesia,Asia,1955,77327794,1716,41.42
+idn,Indonesia,Asia,1960,87792515,1754,45.86
+idn,Indonesia,Asia,1965,100308894,1701,44.59
+idn,Indonesia,Asia,1970,114834780,2108,53.77
+idn,Indonesia,Asia,1975,130724115,2648,56.49
+idn,Indonesia,Asia,1980,147490365,3363,59.31
+idn,Indonesia,Asia,1985,165012196,3545,61.77
+idn,Indonesia,Asia,1990,181436821,4625,63.64
+idn,Indonesia,Asia,1995,196957849,6013,65.76
+idn,Indonesia,Asia,2000,211540429,5806,67.27
+idn,Indonesia,Asia,2005,226712730,6825,68.57
+idn,Indonesia,Asia,2010,242524123,8433,69.9
+idn,Indonesia,Asia,2015,258162113,10368,71.4
+irn,Iran,Asia,1950,17119268,4099,42.34
+irn,Iran,Asia,1955,19293999,3689,45.36
+irn,Iran,Asia,1960,21906903,5424,48.69
+irn,Iran,Asia,1965,24955115,7085,51.93
+irn,Iran,Asia,1970,28514010,11003,55.57
+irn,Iran,Asia,1975,32730554,15508,64.5
+irn,Iran,Asia,1980,38668220,10989,66.48
+irn,Iran,Asia,1985,47342702,11758,68.29
+irn,Iran,Asia,1990,56226185,10163,68.16
+irn,Iran,Asia,1995,60575644,10894,70.93
+irn,Iran,Asia,2000,66131854,11854,71.61
+irn,Iran,Asia,2005,70421811,14551,72.52
+irn,Iran,Asia,2010,74567511,17444,74.45
+irn,Iran,Asia,2015,79360487,16010,75.8
+irq,Iraq,Asia,1950,5719192,3035,36.01
+irq,Iraq,Asia,1955,6502657,5112,43.05
+irq,Iraq,Asia,1960,7289761,6081,49.79
+irq,Iraq,Asia,1965,8375793,7303,55.94
+irq,Iraq,Asia,1970,9917983,7701,60.59
+irq,Iraq,Asia,1975,11684589,10747,61.08
+irq,Iraq,Asia,1980,13653356,17004,61.22
+irq,Iraq,Asia,1985,15576395,10985,60.23
+irq,Iraq,Asia,1990,17469005,11522,66.16
+irq,Iraq,Asia,1995,20208387,6561,65.27
+irq,Iraq,Asia,2000,23565413,12177,65.99
+irq,Iraq,Asia,2005,27008426,10895,64.82
+irq,Iraq,Asia,2010,30762701,12718,67.24
+irq,Iraq,Asia,2015,36115649,14929,67.59
+irl,Ireland,Europe,1950,2913093,6197,65.81
+irl,Ireland,Europe,1955,2899784,7088,68.29
+irl,Ireland,Europe,1960,2822110,7796,70.48
+irl,Ireland,Europe,1965,2859955,9253,70.95
+irl,Ireland,Europe,1970,2949998,11419,71.17
+irl,Ireland,Europe,1975,3184126,13532,71.68
+irl,Ireland,Europe,1980,3434953,15861,72.66
+irl,Ireland,Europe,1985,3564959,17350,73.85
+irl,Ireland,Europe,1990,3569257,22117,74.91
+irl,Ireland,Europe,1995,3651545,27010,75.8
+irl,Ireland,Europe,2000,3848776,40815,76.65
+irl,Ireland,Europe,2005,4212977,48919,78.91
+irl,Ireland,Europe,2010,4626928,45661,80.38
+irl,Ireland,Europe,2015,4700107,60944,81.12
+isr,Israel,Asia,1950,1257971,4204,63.03
+isr,Israel,Asia,1955,1718958,5539,65.5
+isr,Israel,Asia,1960,2089889,6999,67.32
+isr,Israel,Asia,1965,2522530,9441,68.64
+isr,Israel,Asia,1970,2849622,12226,69.6
+isr,Israel,Asia,1975,3336760,15355,71.55
+isr,Israel,Asia,1980,3744667,16661,73.62
+isr,Israel,Asia,1985,4082787,17718,74.5
+isr,Israel,Asia,1990,4500475,19760,75.83
+isr,Israel,Asia,1995,5333719,22731,76.97
+isr,Israel,Asia,2000,6013741,26090,78.46
+isr,Israel,Asia,2005,6602970,26331,79.68
+isr,Israel,Asia,2010,7425959,29600,81.42
+isr,Israel,Asia,2015,8064547,31971,82.02
+ita,Italy,Europe,1950,46598601,6416,65.69
+ita,Italy,Europe,1955,48372842,8169,68.16
+ita,Italy,Europe,1960,49742196,10352,69.11
+ita,Italy,Europe,1965,51728664,12705,70.17
+ita,Italy,Europe,1970,53578683,16605,71.55
+ita,Italy,Europe,1975,55330694,18658,72.84
+ita,Italy,Europe,1980,56419278,23116,74.07
+ita,Italy,Europe,1985,57012352,25954,75.63
+ita,Italy,Europe,1990,57127120,31142,76.98
+ita,Italy,Europe,1995,57255193,33152,78.06
+ita,Italy,Europe,2000,57293721,36536,79.52
+ita,Italy,Europe,2005,58808483,37604,80.82
+ita,Italy,Europe,2010,59729807,36201,81.69
+ita,Italy,Europe,2015,59504212,34245,82.25
+jam,Jamaica,Americas,1950,1402899,2678,56.98
+jam,Jamaica,Americas,1955,1540623,4103,61.12
+jam,Jamaica,Americas,1960,1628252,5405,64.72
+jam,Jamaica,Americas,1965,1756266,6249,67.17
+jam,Jamaica,Americas,1970,1875381,7804,68.79
+jam,Jamaica,Americas,1975,2027737,7698,70.91
+jam,Jamaica,Americas,1980,2163045,6169,71.63
+jam,Jamaica,Americas,1985,2338638,5891,72.69
+jam,Jamaica,Americas,1990,2424242,7286,74.4
+jam,Jamaica,Americas,1995,2537440,8448,74.18
+jam,Jamaica,Americas,2000,2656864,7932,73.83
+jam,Jamaica,Americas,2005,2744673,8411,74.66
+jam,Jamaica,Americas,2010,2817210,7997,74.66
+jam,Jamaica,Americas,2015,2871934,8105,74.91
+jpn,Japan,Asia,1950,82802084,2581,59.44
+jpn,Japan,Asia,1955,89018257,3516,65.93
+jpn,Japan,Asia,1960,93673615,4838,67.98
+jpn,Japan,Asia,1965,98447002,7186,70.53
+jpn,Japan,Asia,1970,104925645,14513,72.28
+jpn,Japan,Asia,1975,112423055,17032,74.31
+jpn,Japan,Asia,1980,117827355,20257,76.16
+jpn,Japan,Asia,1985,121894038,24220,77.68
+jpn,Japan,Asia,1990,124515561,30447,78.86
+jpn,Japan,Asia,1995,126375466,32425,79.67
+jpn,Japan,Asia,2000,127533934,33872,80.95
+jpn,Japan,Asia,2005,128335767,35658,81.97
+jpn,Japan,Asia,2010,128551873,35750,82.85
+jpn,Japan,Asia,2015,127974958,37818,83.77
+jor,Jordan,Asia,1950,481321,2911,45.96
+jor,Jordan,Asia,1955,682952,2839,49.98
+jor,Jordan,Asia,1960,932257,4058,54.23
+jor,Jordan,Asia,1965,1172550,5519,58.32
+jor,Jordan,Asia,1970,1718913,4128,62.18
+jor,Jordan,Asia,1975,2062918,4409,64.75
+jor,Jordan,Asia,1980,2374422,7573,66.79
+jor,Jordan,Asia,1985,2895985,7958,69.3
+jor,Jordan,Asia,1990,3560582,6283,71.8
+jor,Jordan,Asia,1995,4572904,6895,72.7
+jor,Jordan,Asia,2000,5103130,7235,73.08
+jor,Jordan,Asia,2005,5714111,8800,73.12
+jor,Jordan,Asia,2010,7182390,9473,75.78
+jor,Jordan,Asia,2015,9159302,8491,76.75
+kaz,Kazakhstan,Asia,1950,6702991,6048,55.01
+kaz,Kazakhstan,Asia,1955,7991998,7084,57.13
+kaz,Kazakhstan,Asia,1960,9996000,8475,59.43
+kaz,Kazakhstan,Asia,1965,11909003,9998,61.74
+kaz,Kazakhstan,Asia,1970,13109996,12081,63.75
+kaz,Kazakhstan,Asia,1975,14130071,13114,64.92
+kaz,Kazakhstan,Asia,1980,14905889,13195,66.04
+kaz,Kazakhstan,Asia,1985,15789437,13226,67.42
+kaz,Kazakhstan,Asia,1990,16540258,13050,67.8
+kaz,Kazakhstan,Asia,1995,16034956,8283,64.37
+kaz,Kazakhstan,Asia,2000,15057363,9952,64.56
+kaz,Kazakhstan,Asia,2005,15541457,16014,64.95
+kaz,Kazakhstan,Asia,2010,16398976,20097,68.37
+kaz,Kazakhstan,Asia,2015,17749648,23522,71.62
+ken,Kenya,Africa,1950,6076758,1791,45.23
+ken,Kenya,Africa,1955,6979931,1894,47.4
+ken,Kenya,Africa,1960,8105440,1889,50.91
+ken,Kenya,Africa,1965,9504703,1954,54.55
+ken,Kenya,Africa,1970,11252492,1950,57.93
+ken,Kenya,Africa,1975,13486629,2002,59.82
+ken,Kenya,Africa,1980,16268990,2252,61.67
+ken,Kenya,Africa,1985,19651225,2158,62.61
+ken,Kenya,Africa,1990,23402507,2380,61.44
+ken,Kenya,Africa,1995,27346456,2204,57.26
+ken,Kenya,Africa,2000,31450483,2132,55.21
+ken,Kenya,Africa,2005,36048288,2224,57.43
+ken,Kenya,Africa,2010,41350152,2476,62.76
+ken,Kenya,Africa,2015,47236259,2836,66.35
+kir,Kiribati,Asia,1950,33048,2034,44.91
+kir,Kiribati,Asia,1955,36596,2399,47.21
+kir,Kiribati,Asia,1960,41233,2828,49.76
+kir,Kiribati,Asia,1965,46453,3333,52.32
+kir,Kiribati,Asia,1970,51178,3924,54.89
+kir,Kiribati,Asia,1975,55169,7356,57.74
+kir,Kiribati,Asia,1980,59339,2307,58.77
+kir,Kiribati,Asia,1985,64003,2029,57.96
+kir,Kiribati,Asia,1990,72412,1961,58.2
+kir,Kiribati,Asia,1995,77730,1891,58.65
+kir,Kiribati,Asia,2000,84406,2007,59.47
+kir,Kiribati,Asia,2005,92325,1976,60.18
+kir,Kiribati,Asia,2010,102652,1732,60.73
+kir,Kiribati,Asia,2015,112407,1874,61.65
+kwt,Kuwait,Asia,1950,153096,4434,53.59
+kwt,Kuwait,Asia,1955,181888,11592,58.58
+kwt,Kuwait,Asia,1960,269618,19295,63.16
+kwt,Kuwait,Asia,1965,473554,32115,66.76
+kwt,Kuwait,Asia,1970,746767,53445,69.58
+kwt,Kuwait,Asia,1975,1024940,90711,70.05
+kwt,Kuwait,Asia,1980,1372318,106747,71.91
+kwt,Kuwait,Asia,1985,1738994,57325,73.89
+kwt,Kuwait,Asia,1990,2099615,36951,75.63
+kwt,Kuwait,Asia,1995,1610651,81017,76.2
+kwt,Kuwait,Asia,2000,2050741,69920,76.46
+kwt,Kuwait,Asia,2005,2276623,93470,77.03
+kwt,Kuwait,Asia,2010,2998083,75204,78.2
+kwt,Kuwait,Asia,2015,3935794,69329,79.79
+kgz,Kyrgyz Republic,Asia,1950,1740004,2290,51.28
+kgz,Kyrgyz Republic,Asia,1955,1904060,2524,53.27
+kgz,Kyrgyz Republic,Asia,1960,2170093,2782,55.46
+kgz,Kyrgyz Republic,Asia,1965,2569458,3065,57.67
+kgz,Kyrgyz Republic,Asia,1970,2969864,3377,59.59
+kgz,Kyrgyz Republic,Asia,1975,3291077,3567,61.88
+kgz,Kyrgyz Republic,Asia,1980,3610981,3536,63.91
+kgz,Kyrgyz Republic,Asia,1985,3993106,3506,65.25
+kgz,Kyrgyz Republic,Asia,1990,4372890,3475,65.98
+kgz,Kyrgyz Republic,Asia,1995,4566087,1696,64.13
+kgz,Kyrgyz Republic,Asia,2000,4920718,2075,66.41
+kgz,Kyrgyz Republic,Asia,2005,5075380,2370,66.63
+kgz,Kyrgyz Republic,Asia,2010,5422337,2790,68.45
+kgz,Kyrgyz Republic,Asia,2015,5865401,3238,71.07
+lao,Lao,Asia,1950,1682915,1131,37.47
+lao,Lao,Asia,1955,1890852,1188,38.52
+lao,Lao,Asia,1960,2120896,1235,39.74
+lao,Lao,Asia,1965,2382594,1285,40.95
+lao,Lao,Asia,1970,2688428,1340,42.16
+lao,Lao,Asia,1975,3051577,1394,45.67
+lao,Lao,Asia,1980,3258144,1546,47.86
+lao,Lao,Asia,1985,3687898,1608,50.7
+lao,Lao,Asia,1990,4258472,1613,52.46
+lao,Lao,Asia,1995,4851923,1911,54.52
+lao,Lao,Asia,2000,5329304,2346,57.06
+lao,Lao,Asia,2005,5754026,2941,60.28
+lao,Lao,Asia,2010,6246274,3984,63.8
+lao,Lao,Asia,2015,6663967,5434,66.78
+lva,Latvia,Europe,1950,1926568,3954,59.62
+lva,Latvia,Europe,1955,2001570,4620,65.31
+lva,Latvia,Europe,1960,2129586,5512,70.18
+lva,Latvia,Europe,1965,2266941,6485,71.08
+lva,Latvia,Europe,1970,2378017,7816,70.09
+lva,Latvia,Europe,1975,2469436,9380,69.08
+lva,Latvia,Europe,1980,2521385,11030,68.9
+lva,Latvia,Europe,1985,2580751,12678,69.49
+lva,Latvia,Europe,1990,2664432,13650,69.46
+lva,Latvia,Europe,1995,2508473,8272,66.57
+lva,Latvia,Europe,2000,2384163,11159,70.42
+lva,Latvia,Europe,2005,2251983,17496,70.79
+lva,Latvia,Europe,2010,2118848,18252,73.06
+lva,Latvia,Europe,2015,1992663,23057,74.76
+lbn,Lebanon,Asia,1950,1334621,7925,59.98
+lbn,Lebanon,Asia,1955,1532109,10095,61.93
+lbn,Lebanon,Asia,1960,1804926,8914,63.73
+lbn,Lebanon,Asia,1965,2092348,10683,65.21
+lbn,Lebanon,Asia,1970,2297389,12143,66.61
+lbn,Lebanon,Asia,1975,2575690,10391,59.65
+lbn,Lebanon,Asia,1980,2605293,9236,53.15
+lbn,Lebanon,Asia,1985,2676583,12939,64.35
+lbn,Lebanon,Asia,1990,2703016,7860,69.15
+lbn,Lebanon,Asia,1995,3033394,12453,73.53
+lbn,Lebanon,Asia,2000,3235366,12536,76.45
+lbn,Lebanon,Asia,2005,3986852,12273,78.28
+lbn,Lebanon,Asia,2010,4337141,16281,79.85
+lbn,Lebanon,Asia,2015,5851479,13087,80.08
+lso,Lesotho,Africa,1950,733945,435,45.57
+lso,Lesotho,Africa,1955,787806,498,48.78
+lso,Lesotho,Africa,1960,851591,564,52.42
+lso,Lesotho,Africa,1965,933655,736,54.62
+lso,Lesotho,Africa,1970,1033050,774,55.83
+lso,Lesotho,Africa,1975,1150635,924,57.04
+lso,Lesotho,Africa,1980,1310118,1157,58.7
+lso,Lesotho,Africa,1985,1472192,1176,59.73
+lso,Lesotho,Africa,1990,1603938,1380,60.4
+lso,Lesotho,Africa,1995,1761359,1629,57.72
+lso,Lesotho,Africa,2000,1868699,1782,48.8
+lso,Lesotho,Africa,2005,1949543,1960,43.25
+lso,Lesotho,Africa,2010,2040551,2375,46.5
+lso,Lesotho,Africa,2015,2174645,2777,49.57
+lbr,Liberia,Africa,1950,930025,1498,38.21
+lbr,Liberia,Africa,1955,1010067,1650,39.68
+lbr,Liberia,Africa,1960,1120313,1763,41.26
+lbr,Liberia,Africa,1965,1252972,1802,43.84
+lbr,Liberia,Africa,1970,1416529,2152,47.54
+lbr,Liberia,Africa,1975,1625013,2108,49.83
+lbr,Liberia,Africa,1980,1888314,2006,51.48
+lbr,Liberia,Africa,1985,2192555,1610,52.33
+lbr,Liberia,Africa,1990,2097232,875,49.88
+lbr,Liberia,Africa,1995,2073482,247,50.32
+lbr,Liberia,Africa,2000,2884522,839,54.47
+lbr,Liberia,Africa,2005,3261230,598,58.17
+lbr,Liberia,Africa,2010,3948125,700,60.77
+lbr,Liberia,Africa,2015,4499621,785,63.83
+lby,Libya,Africa,1950,1124515,5128,42.61
+lby,Libya,Africa,1955,1245358,6990,42.53
+lby,Libya,Africa,1960,1448417,12029,49.48
+lby,Libya,Africa,1965,1733306,37062,58.87
+lby,Libya,Africa,1970,2133526,65830,66.1
+lby,Libya,Africa,1975,2645139,41743,69.08
+lby,Libya,Africa,1980,3219466,57668,71.45
+lby,Libya,Africa,1985,3873781,34681,72.61
+lby,Libya,Africa,1990,4436661,26002,73.14
+lby,Libya,Africa,1995,4948798,22560,74.12
+lby,Libya,Africa,2000,5355751,21922,74.4
+lby,Libya,Africa,2005,5792688,26045,75.22
+lby,Libya,Africa,2010,6169140,29630,76.1
+lby,Libya,Africa,2015,6234955,13525,74.16
+ltu,Lithuania,Europe,1950,2567403,6561,63.57
+ltu,Lithuania,Europe,1955,2628745,7640,66.36
+ltu,Lithuania,Europe,1960,2769866,9087,70.3
+ltu,Lithuania,Europe,1965,2966162,10657,71.71
+ltu,Lithuania,Europe,1970,3136580,12803,71.1
+ltu,Lithuania,Europe,1975,3298873,14070,71.08
+ltu,Lithuania,Europe,1980,3430759,14728,70.72
+ltu,Lithuania,Europe,1985,3562396,15357,70.74
+ltu,Lithuania,Europe,1990,3696034,15764,71.38
+ltu,Lithuania,Europe,1995,3626602,9357,69
+ltu,Lithuania,Europe,2000,3501835,12189,72.02
+ltu,Lithuania,Europe,2005,3344252,18526,71.41
+ltu,Lithuania,Europe,2010,3123803,21069,73.17
+ltu,Lithuania,Europe,2015,2931926,26971,74.86
+lux,Luxembourg,Europe,1950,296001,18895,65.59
+lux,Luxembourg,Europe,1955,305261,19624,67.1
+lux,Luxembourg,Europe,1960,314588,22445,69.48
+lux,Luxembourg,Europe,1965,330161,25563,69.84
+lux,Luxembourg,Europe,1970,339668,29624,70.04
+lux,Luxembourg,Europe,1975,353983,32666,71.24
+lux,Luxembourg,Europe,1980,364038,36287,72.6
+lux,Luxembourg,Europe,1985,366884,41084,73.82
+lux,Luxembourg,Europe,1990,381791,57618,75.13
+lux,Luxembourg,Europe,1995,408149,65358,76.77
+lux,Luxembourg,Europe,2000,436103,81690,78.42
+lux,Luxembourg,Europe,2005,457842,88610,79.95
+lux,Luxembourg,Europe,2010,507889,91743,81.35
+lux,Luxembourg,Europe,2015,566741,95311,81.99
+mkd,"Macedonia, FYR",Europe,1950,1254445,2551,53.78
+mkd,"Macedonia, FYR",Europe,1955,1392449,2966,57.92
+mkd,"Macedonia, FYR",Europe,1960,1488667,4034,61.58
+mkd,"Macedonia, FYR",Europe,1965,1592432,5099,64.69
+mkd,"Macedonia, FYR",Europe,1970,1720800,6254,67.45
+mkd,"Macedonia, FYR",Europe,1975,1803010,8080,68.87
+mkd,"Macedonia, FYR",Europe,1980,1924197,10158,69.39
+mkd,"Macedonia, FYR",Europe,1985,1981534,10577,70.23
+mkd,"Macedonia, FYR",Europe,1990,1996228,9633,70.57
+mkd,"Macedonia, FYR",Europe,1995,1983252,7641,71.19
+mkd,"Macedonia, FYR",Europe,2000,2034819,8621,72.23
+mkd,"Macedonia, FYR",Europe,2005,2060272,9386,72.89
+mkd,"Macedonia, FYR",Europe,2010,2070739,11355,74.01
+mkd,"Macedonia, FYR",Europe,2015,2079308,12760,74.63
+mdg,Madagascar,Africa,1950,4083554,1910,39.14
+mdg,Madagascar,Africa,1955,4543542,2122,41.8
+mdg,Madagascar,Africa,1960,5099373,2278,44.78
+mdg,Madagascar,Africa,1965,5769218,2211,47.74
+mdg,Madagascar,Africa,1970,6576305,2501,50.76
+mdg,Madagascar,Africa,1975,7556026,2306,53.1
+mdg,Madagascar,Africa,1980,8716553,2168,54.87
+mdg,Madagascar,Africa,1985,10063495,1684,54.17
+mdg,Madagascar,Africa,1990,11598633,1653,55.59
+mdg,Madagascar,Africa,1995,13475400,1400,56.85
+mdg,Madagascar,Africa,2000,15766806,1444,58.46
+mdg,Madagascar,Africa,2005,18336724,1390,60.08
+mdg,Madagascar,Africa,2010,21151640,1386,60.84
+mdg,Madagascar,Africa,2015,24234088,1376,62.31
+mwi,Malawi,Africa,1950,2953871,411,38.06
+mwi,Malawi,Africa,1955,3252332,459,38.96
+mwi,Malawi,Africa,1960,3618595,522,40.27
+mwi,Malawi,Africa,1965,4058673,537,41.54
+mwi,Malawi,Africa,1970,4603723,620,43.51
+mwi,Malawi,Africa,1975,5292808,833,46.4
+mwi,Malawi,Africa,1980,6163080,924,49.37
+mwi,Malawi,Africa,1985,7211105,829,50.07
+mwi,Malawi,Africa,1990,9437553,744,48.72
+mwi,Malawi,Africa,1995,9909088,821,46.01
+mwi,Malawi,Africa,2000,11376172,866,44.73
+mwi,Malawi,Africa,2005,13039711,840,47.62
+mwi,Malawi,Africa,2010,15167095,1033,53.07
+mwi,Malawi,Africa,2015,17573607,1089,59.44
+mys,Malaysia,Asia,1950,6109915,2984,53.59
+mys,Malaysia,Asia,1955,7039719,2832,56.51
+mys,Malaysia,Asia,1960,8157106,3004,59.59
+mys,Malaysia,Asia,1965,9526563,3579,62.32
+mys,Malaysia,Asia,1970,10803978,4164,64.6
+mys,Malaysia,Asia,1975,12162369,5341,66.9
+mys,Malaysia,Asia,1980,13798125,7423,68.92
+mys,Malaysia,Asia,1985,15598942,8493,70.54
+mys,Malaysia,Asia,1990,18038321,10552,71.66
+mys,Malaysia,Asia,1995,20495597,14601,72.36
+mys,Malaysia,Asia,2000,23185608,16310,73.12
+mys,Malaysia,Asia,2005,25659393,18577,73.91
+mys,Malaysia,Asia,2010,28112289,21107,74.46
+mys,Malaysia,Asia,2015,30723155,24989,75.37
+mdv,Maldives,Asia,1950,73714,868,29.67
+mdv,Maldives,Asia,1955,79714,972,30.4
+mdv,Maldives,Asia,1960,89887,1089,32.24
+mdv,Maldives,Asia,1965,102766,1219,35.48
+mdv,Maldives,Asia,1970,115768,1365,39.12
+mdv,Maldives,Asia,1975,136519,1293,44.26
+mdv,Maldives,Asia,1980,158385,1903,48.19
+mdv,Maldives,Asia,1985,189637,2981,55.34
+mdv,Maldives,Asia,1990,223215,4197,62.42
+mdv,Maldives,Asia,1995,254082,5065,67.85
+mdv,Maldives,Asia,2000,280384,6863,72.13
+mdv,Maldives,Asia,2005,318836,7961,75.71
+mdv,Maldives,Asia,2010,364511,10514,77.91
+mdv,Maldives,Asia,2015,418403,11994,79.29
+mli,Mali,Africa,1950,4708429,694,31.26
+mli,Mali,Africa,1955,4975398,764,32.91
+mli,Mali,Africa,1960,5263733,834,34.02
+mli,Mali,Africa,1965,5568484,876,35.92
+mli,Mali,Africa,1970,5949045,940,39.82
+mli,Mali,Africa,1975,6482278,1002,41.6
+mli,Mali,Africa,1980,7090126,1212,44.92
+mli,Mali,Africa,1985,7831889,1147,47.26
+mli,Mali,Africa,1990,8465188,1272,49.4
+mli,Mali,Africa,1995,9604450,1310,51.25
+mli,Mali,Africa,2000,10967690,1463,53.35
+mli,Mali,Africa,2005,12798763,1761,56.54
+mli,Mali,Africa,2010,15075085,1872,59.46
+mli,Mali,Africa,2015,17467905,1919,61.37
+mlt,Malta,Europe,1950,312003,2552,64.82
+mlt,Malta,Europe,1955,313124,2666,65.44
+mlt,Malta,Europe,1960,311534,2785,66.72
+mlt,Malta,Europe,1965,321019,2963,68.18
+mlt,Malta,Europe,1970,320086,4542,69.51
+mlt,Malta,Europe,1975,322821,7049,70.69
+mlt,Malta,Europe,1980,333274,10943,71.54
+mlt,Malta,Europe,1985,349196,12567,73.59
+mlt,Malta,Europe,1990,364431,16152,75.73
+mlt,Malta,Europe,1995,380305,19792,77.1
+mlt,Malta,Europe,2000,396668,24586,77.49
+mlt,Malta,Europe,2005,406787,26303,79.14
+mlt,Malta,Europe,2010,416110,28321,80.28
+mlt,Malta,Europe,2015,427616,34380,81.33
+mrt,Mauritania,Africa,1950,660491,1185,40.55
+mrt,Mauritania,Africa,1955,746804,1390,43.63
+mrt,Mauritania,Africa,1960,858168,1674,47.55
+mrt,Mauritania,Africa,1965,992367,2547,51.24
+mrt,Mauritania,Africa,1970,1148908,2970,54.22
+mrt,Mauritania,Africa,1975,1328686,2758,54.76
+mrt,Mauritania,Africa,1980,1534085,2948,57.16
+mrt,Mauritania,Africa,1985,1769942,2716,58.62
+mrt,Mauritania,Africa,1990,2030140,2807,59.96
+mrt,Mauritania,Africa,1995,2327075,2862,61.62
+mrt,Mauritania,Africa,2000,2709359,2751,63.7
+mrt,Mauritania,Africa,2005,3130720,2986,65.69
+mrt,Mauritania,Africa,2010,3609543,3317,68.23
+mrt,Mauritania,Africa,2015,4182341,3602,69.95
+mus,Mauritius,Africa,1950,493255,2437,46.62
+mus,Mauritius,Africa,1955,570648,2551,51.25
+mus,Mauritius,Africa,1960,660023,2759,56.78
+mus,Mauritius,Africa,1965,753285,3305,60.21
+mus,Mauritius,Africa,1970,826441,2970,60.82
+mus,Mauritius,Africa,1975,892211,4030,62.92
+mus,Mauritius,Africa,1980,966031,4465,66.02
+mus,Mauritius,Africa,1985,1015762,5325,67.69
+mus,Mauritius,Africa,1990,1055868,7387,69.4
+mus,Mauritius,Africa,1995,1128673,8845,70.4
+mus,Mauritius,Africa,2000,1185145,11077,71.47
+mus,Mauritius,Africa,2005,1222003,12442,72.39
+mus,Mauritius,Africa,2010,1247955,15938,73.42
+mus,Mauritius,Africa,2015,1259456,18864,74.49
+mex,Mexico,Americas,1950,28012561,4408,49.05
+mex,Mexico,Americas,1955,32605178,5129,53.76
+mex,Mexico,Americas,1960,38174112,5999,57.73
+mex,Mexico,Americas,1965,44623043,7323,60.16
+mex,Mexico,Americas,1970,52029861,8810,62.14
+mex,Mexico,Americas,1975,60872399,10302,64.66
+mex,Mexico,Americas,1980,69360871,12808,66.72
+mex,Mexico,Americas,1985,77360707,12661,69.07
+mex,Mexico,Americas,1990,85357874,12584,71.55
+mex,Mexico,Americas,1995,94045579,12670,72.87
+mex,Mexico,Americas,2000,101719673,15015,74.61
+mex,Mexico,Americas,2005,108472228,15273,75.21
+mex,Mexico,Americas,2010,117318941,15535,75.47
+mex,Mexico,Americas,2015,125890949,16668,76.21
+fsm,"Micronesia, Fed. Sts.",Asia,1950,32001,1165,52.52
+fsm,"Micronesia, Fed. Sts.",Asia,1955,37893,1288,54.19
+fsm,"Micronesia, Fed. Sts.",Asia,1960,44537,1424,56.06
+fsm,"Micronesia, Fed. Sts.",Asia,1965,52242,1573,57.92
+fsm,"Micronesia, Fed. Sts.",Asia,1970,61431,1738,59.82
+fsm,"Micronesia, Fed. Sts.",Asia,1975,63144,2709,60.72
+fsm,"Micronesia, Fed. Sts.",Asia,1980,72964,2417,61.75
+fsm,"Micronesia, Fed. Sts.",Asia,1985,85686,2529,62.52
+fsm,"Micronesia, Fed. Sts.",Asia,1990,96331,2763,63.32
+fsm,"Micronesia, Fed. Sts.",Asia,1995,107556,3185,64.26
+fsm,"Micronesia, Fed. Sts.",Asia,2000,107432,3167,64.77
+fsm,"Micronesia, Fed. Sts.",Asia,2005,106196,3301,65.62
+fsm,"Micronesia, Fed. Sts.",Asia,2010,103616,3337,65.38
+fsm,"Micronesia, Fed. Sts.",Asia,2015,104433,3285,65.33
+mda,Moldova,Europe,1950,2340997,2712,56.36
+mda,Moldova,Europe,1955,2627009,3140,58.13
+mda,Moldova,Europe,1960,3003559,3713,59.85
+mda,Moldova,Europe,1965,3335631,4352,61.52
+mda,Moldova,Europe,1970,3594518,5225,62.54
+mda,Moldova,Europe,1975,3838910,5743,63.9
+mda,Moldova,Europe,1980,4009838,6020,64.85
+mda,Moldova,Europe,1985,4214916,6286,65.38
+mda,Moldova,Europe,1990,4364116,6462,67.19
+mda,Moldova,Europe,1995,4339082,2605,64.62
+mda,Moldova,Europe,2000,4201089,2321,67.58
+mda,Moldova,Europe,2005,4157699,3308,68.54
+mda,Moldova,Europe,2010,4084481,3911,69.74
+mda,Moldova,Europe,2015,4065980,4747,72.08
+mng,Mongolia,Asia,1950,780199,858,42
+mng,Mongolia,Asia,1955,855103,1018,43.78
+mng,Mongolia,Asia,1960,955505,1208,47.73
+mng,Mongolia,Asia,1965,1107124,1431,51.7
+mng,Mongolia,Asia,1970,1278825,1695,54.52
+mng,Mongolia,Asia,1975,1479651,1949,58.02
+mng,Mongolia,Asia,1980,1689622,2502,58.98
+mng,Mongolia,Asia,1985,1921881,3188,60.87
+mng,Mongolia,Asia,1990,2184145,5123,62.52
+mng,Mongolia,Asia,1995,2298039,4244,61.73
+mng,Mongolia,Asia,2000,2397436,4655,62.82
+mng,Mongolia,Asia,2005,2526446,6047,63.99
+mng,Mongolia,Asia,2010,2712650,7709,66.18
+mng,Mongolia,Asia,2015,2976877,11409,68.21
+mne,Montenegro,Europe,1950,394739,4111,61.02
+mne,Montenegro,Europe,1955,443795,4818,62.74
+mne,Montenegro,Europe,1960,487413,6606,66.04
+mne,Montenegro,Europe,1965,533814,8415,69.46
+mne,Montenegro,Europe,1970,519696,10400,72.58
+mne,Montenegro,Europe,1975,554262,13538,73.26
+mne,Montenegro,Europe,1980,580754,17148,74
+mne,Montenegro,Europe,1985,614016,17988,74.24
+mne,Montenegro,Europe,1990,615002,16503,74.97
+mne,Montenegro,Europe,1995,620414,7809,73.95
+mne,Montenegro,Europe,2000,613560,10075,73.84
+mne,Montenegro,Europe,2005,616388,11397,75
+mne,Montenegro,Europe,2010,624285,14035,76.36
+mne,Montenegro,Europe,2015,628178,15291,76.93
+mar,Morocco,Africa,1950,8985989,2080,46.91
+mar,Morocco,Africa,1955,10502666,2151,48.56
+mar,Morocco,Africa,1960,12328532,1951,50.72
+mar,Morocco,Africa,1965,14229044,2068,53.08
+mar,Morocco,Africa,1970,16000008,2416,55.31
+mar,Morocco,Africa,1975,17803698,2743,57.81
+mar,Morocco,Africa,1980,20019847,3411,61
+mar,Morocco,Africa,1985,22537376,3575,64.62
+mar,Morocco,Africa,1990,24879136,3912,67.2
+mar,Morocco,Africa,1995,27075232,3915,68.99
+mar,Morocco,Africa,2000,28849621,4484,70.87
+mar,Morocco,Africa,2005,30521070,5362,72.22
+mar,Morocco,Africa,2010,32409639,6443,73.55
+mar,Morocco,Africa,2015,34803322,7286,74.78
+moz,Mozambique,Africa,1950,6152237,408,35.41
+moz,Mozambique,Africa,1955,6701749,450,38.41
+moz,Mozambique,Africa,1960,7388695,472,41.7
+moz,Mozambique,Africa,1965,8203076,477,44.65
+moz,Mozambique,Africa,1970,9161534,611,47.56
+moz,Mozambique,Africa,1975,10344494,488,49.51
+moz,Mozambique,Africa,1980,11848331,421,50.26
+moz,Mozambique,Africa,1985,12984405,315,45.11
+moz,Mozambique,Africa,1990,13247649,379,50.66
+moz,Mozambique,Africa,1995,15759132,373,51.23
+moz,Mozambique,Africa,2000,18067687,562,51.32
+moz,Mozambique,Africa,2005,20923070,742,52.35
+moz,Mozambique,Africa,2010,24221405,918,54.48
+moz,Mozambique,Africa,2015,28010691,1118,58.96
+mmr,Myanmar,Asia,1950,17151510,619,31.95
+mmr,Myanmar,Asia,1955,18867968,704,37.39
+mmr,Myanmar,Asia,1960,20986123,815,40.79
+mmr,Myanmar,Asia,1965,23391145,850,44.74
+mmr,Myanmar,Asia,1970,26381431,837,48.45
+mmr,Myanmar,Asia,1975,29721967,806,52.54
+mmr,Myanmar,Asia,1980,33369712,932,55.43
+mmr,Myanmar,Asia,1985,37222296,979,57.31
+mmr,Myanmar,Asia,1990,40626250,743,58.59
+mmr,Myanmar,Asia,1995,43237792,927,59.56
+mmr,Myanmar,Asia,2000,46095462,1306,61.13
+mmr,Myanmar,Asia,2005,48482614,2275,63.6
+mmr,Myanmar,Asia,2010,50155896,3721,66.84
+mmr,Myanmar,Asia,2015,52403669,5071,69.52
+nam,Namibia,Africa,1950,485274,3840,43.78
+nam,Namibia,Africa,1955,537514,4122,47.62
+nam,Namibia,Africa,1960,602544,4683,51.53
+nam,Namibia,Africa,1965,682551,6511,55.04
+nam,Namibia,Africa,1970,780384,5983,58.33
+nam,Namibia,Africa,1975,904839,6024,59.11
+nam,Namibia,Africa,1980,1012672,6826,59.33
+nam,Namibia,Africa,1985,1148302,6072,60.87
+nam,Namibia,Africa,1990,1414692,5719,61.5
+nam,Namibia,Africa,1995,1655359,5895,59.91
+nam,Namibia,Africa,2000,1899257,6106,53.65
+nam,Namibia,Africa,2005,2032196,7260,51.65
+nam,Namibia,Africa,2010,2173170,8461,58.6
+nam,Namibia,Africa,2015,2425561,9913,64.29
+npl,Nepal,Asia,1950,8483325,797,38.86
+npl,Nepal,Asia,1955,9293493,881,41.21
+npl,Nepal,Asia,1960,10063011,958,43.81
+npl,Nepal,Asia,1965,10913724,986,46.41
+npl,Nepal,Asia,1970,11997929,1011,48.98
+npl,Nepal,Asia,1975,13325814,983,50.57
+npl,Nepal,Asia,1980,14902163,965,52.44
+npl,Nepal,Asia,1985,16723956,1069,54.88
+npl,Nepal,Asia,1990,18749406,1198,57.7
+npl,Nepal,Asia,1995,21396384,1352,60.58
+npl,Nepal,Asia,2000,23740911,1540,63.7
+npl,Nepal,Asia,2005,25640287,1684,66.02
+npl,Nepal,Asia,2010,27023137,1986,68.26
+npl,Nepal,Asia,2015,28656282,2301,69.66
+nld,Netherlands,Europe,1950,10042043,9460,71.54
+nld,Netherlands,Europe,1955,10709630,11486,72.62
+nld,Netherlands,Europe,1960,11448817,13118,73.47
+nld,Netherlands,Europe,1965,12248344,15691,73.71
+nld,Netherlands,Europe,1970,13001943,19601,73.72
+nld,Netherlands,Europe,1975,13683291,22598,74.65
+nld,Netherlands,Europe,1980,14148415,25550,75.81
+nld,Netherlands,Europe,1985,14513949,27192,76.37
+nld,Netherlands,Europe,1990,14965448,32090,76.98
+nld,Netherlands,Europe,1995,15467851,34763,77.48
+nld,Netherlands,Europe,2000,15926188,41722,78.06
+nld,Netherlands,Europe,2005,16367158,43507,79.42
+nld,Netherlands,Europe,2010,16682917,45525,80.73
+nld,Netherlands,Europe,2015,16938499,46354,81.62
+nzl,New Zealand,Asia,1950,1908000,14426,69.45
+nzl,New Zealand,Asia,1955,2136391,14926,70.66
+nzl,New Zealand,Asia,1960,2372594,16232,71.45
+nzl,New Zealand,Asia,1965,2626645,18702,71.48
+nzl,New Zealand,Asia,1970,2818387,19280,71.54
+nzl,New Zealand,Asia,1975,3082633,21566,72.17
+nzl,New Zealand,Asia,1980,3146619,21365,73.19
+nzl,New Zealand,Asia,1985,3268236,23878,74.12
+nzl,New Zealand,Asia,1990,3398172,24161,75.64
+nzl,New Zealand,Asia,1995,3674936,25660,76.96
+nzl,New Zealand,Asia,2000,3858999,28265,78.51
+nzl,New Zealand,Asia,2005,4135355,32065,79.83
+nzl,New Zealand,Asia,2010,4370062,32253,80.9
+nzl,New Zealand,Asia,2015,4614532,34646,81.48
+nic,Nicaragua,Americas,1950,1294992,3516,43.95
+nic,Nicaragua,Americas,1955,1508025,4487,47.13
+nic,Nicaragua,Americas,1960,1774699,4275,50.76
+nic,Nicaragua,Americas,1965,2062630,5866,54.52
+nic,Nicaragua,Americas,1970,2398096,6001,58.42
+nic,Nicaragua,Americas,1975,2796746,6644,64.49
+nic,Nicaragua,Americas,1980,3249910,4550,67.51
+nic,Nicaragua,Americas,1985,3709091,4085,65.3
+nic,Nicaragua,Americas,1990,4144565,3004,73.58
+nic,Nicaragua,Americas,1995,4612228,2948,73.74
+nic,Nicaragua,Americas,2000,5026796,3456,75.62
+nic,Nicaragua,Americas,2005,5379328,3772,76.58
+nic,Nicaragua,Americas,2010,5737723,4029,77.36
+nic,Nicaragua,Americas,2015,6082035,4961,77.97
+ner,Niger,Africa,1950,2559703,952,40.5
+ner,Niger,Africa,1955,2955541,1058,41.12
+ner,Niger,Africa,1960,3388764,1196,41.97
+ner,Niger,Africa,1965,3913934,1483,42.73
+ner,Niger,Africa,1970,4510479,1343,43.61
+ner,Niger,Africa,1975,5184811,1064,43.24
+ner,Niger,Africa,1980,5988904,1314,43.88
+ner,Niger,Africa,1985,6915927,967,44.68
+ner,Niger,Africa,1990,8012861,894,47.13
+ner,Niger,Africa,1995,9477333,784,49
+ner,Niger,Africa,2000,11352973,753,52.18
+ner,Niger,Africa,2005,13618449,763,55.6
+ner,Niger,Africa,2010,16425578,814,58.78
+ner,Niger,Africa,2015,19896965,897,61.23
+nga,Nigeria,Africa,1950,37859744,2739,42.77
+nga,Nigeria,Africa,1955,41085563,3112,45.47
+nga,Nigeria,Africa,1960,45137812,3819,49.04
+nga,Nigeria,Africa,1965,50127214,3533,52.51
+nga,Nigeria,Africa,1970,55981400,3492,50.1
+nga,Nigeria,Africa,1975,63373572,4055,52.56
+nga,Nigeria,Africa,1980,73460724,4263,54.65
+nga,Nigeria,Africa,1985,83613300,3269,55.65
+nga,Nigeria,Africa,1990,95269988,3042,54.89
+nga,Nigeria,Africa,1995,108011465,2750,54.72
+nga,Nigeria,Africa,2000,122352009,2848,54.92
+nga,Nigeria,Africa,2005,138939478,4149,56.86
+nga,Nigeria,Africa,2010,158578261,5150,60.53
+nga,Nigeria,Africa,2015,181181744,5671,64.05
+prk,North Korea,Asia,1950,10549472,867,39.71
+prk,North Korea,Asia,1955,10086991,1146,52.15
+prk,North Korea,Asia,1960,11424176,1544,57.26
+prk,North Korea,Asia,1965,12547525,1630,60.91
+prk,North Korea,Asia,1970,14410400,1697,67.36
+prk,North Korea,Asia,1975,16274740,1844,69.82
+prk,North Korea,Asia,1980,17472140,1887,70.82
+prk,North Korea,Asia,1985,18877238,2121,71.25
+prk,North Korea,Asia,1990,20293054,2076,71.62
+prk,North Korea,Asia,1995,21862299,1442,64.08
+prk,North Korea,Asia,2000,22929075,1287,63.63
+prk,North Korea,Asia,2005,23904167,1464,69.76
+prk,North Korea,Asia,2010,24591599,1393,70.1
+prk,North Korea,Asia,2015,25243917,1390,70.64
+nor,Norway,Europe,1950,3265273,11397,71.56
+nor,Norway,Europe,1955,3430340,13363,73.4
+nor,Norway,Europe,1960,3582507,15444,73.54
+nor,Norway,Europe,1965,3724463,18845,73.68
+nor,Norway,Europe,1970,3876060,22012,74.03
+nor,Norway,Europe,1975,4008031,27316,74.85
+nor,Norway,Europe,1980,4086076,34026,75.75
+nor,Norway,Europe,1985,4153105,39629,76.15
+nor,Norway,Europe,1990,4247285,42830,76.85
+nor,Norway,Europe,1995,4366995,50070,77.93
+nor,Norway,Europe,2000,4499367,58067,78.71
+nor,Norway,Europe,2005,4632364,62888,80.11
+nor,Norway,Europe,2010,4885878,62268,81.04
+nor,Norway,Europe,2015,5199836,63670,82.07
+omn,Oman,Asia,1950,456419,3009,34.39
+omn,Oman,Asia,1955,495816,3757,38.57
+omn,Oman,Asia,1960,551740,4652,42.95
+omn,Oman,Asia,1965,625009,5319,46.99
+omn,Oman,Asia,1970,723852,19458,50.67
+omn,Oman,Asia,1975,882044,22166,56.32
+omn,Oman,Asia,1980,1154379,21444,62.6
+omn,Oman,Asia,1985,1498417,34935,67.64
+omn,Oman,Asia,1990,1812160,35042,70.7
+omn,Oman,Asia,1995,2204283,38316,72.88
+omn,Oman,Asia,2000,2267991,43966,74.55
+omn,Oman,Asia,2005,2511269,41458,76.02
+omn,Oman,Asia,2010,3041460,45335,76.09
+omn,Oman,Asia,2015,4199810,40139,77.38
+pak,Pakistan,Asia,1950,37542376,1192,37.91
+pak,Pakistan,Asia,1955,40424296,1184,43.54
+pak,Pakistan,Asia,1960,44908293,1212,49.12
+pak,Pakistan,Asia,1965,50845221,1450,53.64
+pak,Pakistan,Asia,1970,58090759,1799,56.95
+pak,Pakistan,Asia,1975,66787901,1856,58.67
+pak,Pakistan,Asia,1980,78068144,2213,60.32
+pak,Pakistan,Asia,1985,92219488,2680,61.75
+pak,Pakistan,Asia,1990,107678614,3055,62.45
+pak,Pakistan,Asia,1995,122829148,3358,61.95
+pak,Pakistan,Asia,2000,138523285,3495,62.63
+pak,Pakistan,Asia,2005,153909667,4013,62.56
+pak,Pakistan,Asia,2010,170560182,4284,65.33
+pak,Pakistan,Asia,2015,189380513,4695,67.26
+pan,Panama,Americas,1950,859659,3237,57.62
+pan,Panama,Americas,1955,981032,3489,60.25
+pan,Panama,Americas,1960,1132921,4077,63.19
+pan,Panama,Americas,1965,1314626,5285,65.81
+pan,Panama,Americas,1970,1519299,6560,68.3
+pan,Panama,Americas,1975,1745205,7252,71.51
+pan,Panama,Americas,1980,1978578,8831,73.7
+pan,Panama,Americas,1985,2219276,9236,74.49
+pan,Panama,Americas,1990,2471009,7816,75.02
+pan,Panama,Americas,1995,2739730,9210,75.52
+pan,Panama,Americas,2000,3030347,10572,76.87
+pan,Panama,Americas,2005,3330465,11878,77.49
+pan,Panama,Americas,2010,3643222,15419,77.85
+pan,Panama,Americas,2015,3969249,20674,78.73
+png,Papua New Guinea,Asia,1950,1674036,945,38.36
+png,Papua New Guinea,Asia,1955,1824712,1016,41.2
+png,Papua New Guinea,Asia,1960,2010677,1093,44.44
+png,Papua New Guinea,Asia,1965,2236206,1398,48.94
+png,Papua New Guinea,Asia,1970,2527586,1728,54.01
+png,Papua New Guinea,Asia,1975,2878156,1873,55.07
+png,Papua New Guinea,Asia,1980,3304473,1766,55.33
+png,Papua New Guinea,Asia,1985,3794720,1663,55.51
+png,Papua New Guinea,Asia,1990,4313059,1549,56
+png,Papua New Guinea,Asia,1995,4894276,2061,56.96
+png,Papua New Guinea,Asia,2000,5572222,1791,57.64
+png,Papua New Guinea,Asia,2005,6314709,1759,57.65
+png,Papua New Guinea,Asia,2010,7108239,2087,58.7
+png,Papua New Guinea,Asia,2015,7919825,2749,60.49
+pry,Paraguay,Americas,1950,1473253,3023,65.8
+pry,Paraguay,Americas,1955,1673009,2894,66.23
+pry,Paraguay,Americas,1960,1902875,2942,67.44
+pry,Paraguay,Americas,1965,2170859,3274,68.6
+pry,Paraguay,Americas,1970,2474106,3508,69.55
+pry,Paraguay,Americas,1975,2790962,4140,70.56
+pry,Paraguay,Americas,1980,3180630,6131,72.16
+pry,Paraguay,Americas,1985,3671826,5789,73.24
+pry,Paraguay,Americas,1990,4213742,6036,74.58
+pry,Paraguay,Americas,1995,4760850,6639,74.48
+pry,Paraguay,Americas,2000,5302700,6085,74.42
+pry,Paraguay,Americas,2005,5795494,6120,74.14
+pry,Paraguay,Americas,2010,6209877,7290,74.07
+pry,Paraguay,Americas,2015,6639119,8639,74.43
+per,Peru,Americas,1950,7727734,4429,39.33
+per,Peru,Americas,1955,8786757,5030,40.8
+per,Peru,Americas,1960,10061515,5384,42.98
+per,Peru,Americas,1965,11607681,6385,44.98
+per,Peru,Americas,1970,13341069,6749,47.6
+per,Peru,Americas,1975,15229947,7585,62.18
+per,Peru,Americas,1980,17359120,7483,64.08
+per,Peru,Americas,1985,19544956,6469,65.97
+per,Peru,Americas,1990,21826658,5313,69.43
+per,Peru,Americas,1995,24038760,6226,71.2
+per,Peru,Americas,2000,25914879,6563,74.83
+per,Peru,Americas,2005,27610410,7595,77.09
+per,Peru,Americas,2010,29373646,9957,77.92
+per,Peru,Americas,2015,31376671,11768,79.53
+phl,Philippines,Asia,1950,18580490,1863,56.32
+phl,Philippines,Asia,1955,22179101,2376,58.01
+phl,Philippines,Asia,1960,26273025,2597,59.75
+phl,Philippines,Asia,1965,30913933,2886,61.41
+phl,Philippines,Asia,1970,35804729,3132,63.03
+phl,Philippines,Asia,1975,41295124,3625,63.85
+phl,Philippines,Asia,1980,47396968,4252,64.88
+phl,Philippines,Asia,1985,54323648,3559,65.61
+phl,Philippines,Asia,1990,61947348,4010,67.18
+phl,Philippines,Asia,1995,69835715,3960,68.16
+phl,Philippines,Asia,2000,77991569,4224,68.24
+phl,Philippines,Asia,2005,86274237,4779,68.33
+phl,Philippines,Asia,2010,93726624,5597,69.03
+phl,Philippines,Asia,2015,101716359,6875,70.06
+pol,Poland,Europe,1950,24824018,4708,59.03
+pol,Poland,Europe,1955,27269749,5437,63.82
+pol,Poland,Europe,1960,29611556,6316,67.83
+pol,Poland,Europe,1965,31357726,7498,69.47
+pol,Poland,Europe,1970,32635557,8822,69.83
+pol,Poland,Europe,1975,33966572,11599,70.8
+pol,Poland,Europe,1980,35535108,11488,70.43
+pol,Poland,Europe,1985,37128717,11353,70.71
+pol,Poland,Europe,1990,37954553,10277,70.98
+pol,Poland,Europe,1995,38452632,11300,71.87
+pol,Poland,Europe,2000,38550495,14732,73.76
+pol,Poland,Europe,2005,38362666,17194,75.18
+pol,Poland,Europe,2010,38323402,21771,76.3
+pol,Poland,Europe,2015,38265226,25299,77.71
+prt,Portugal,Europe,1950,8416967,3852,58.69
+prt,Portugal,Europe,1955,8670884,4571,61.61
+prt,Portugal,Europe,1960,8893971,5463,64.44
+prt,Portugal,Europe,1965,8914451,7385,66.4
+prt,Portugal,Europe,1970,8701855,10134,67.4
+prt,Portugal,Europe,1975,9224059,12088,69.74
+prt,Portugal,Europe,1980,9804851,14943,71.62
+prt,Portugal,Europe,1985,9985575,15451,73.19
+prt,Portugal,Europe,1990,9953327,20167,74.31
+prt,Portugal,Europe,1995,10149735,21851,75.31
+prt,Portugal,Europe,2000,10355117,25999,76.68
+prt,Portugal,Europe,2005,10565723,26593,78.33
+prt,Portugal,Europe,2010,10652321,27238,79.84
+prt,Portugal,Europe,2015,10418473,26548,80.81
+qat,Qatar,Asia,1950,25003,1603,53.01
+qat,Qatar,Asia,1955,35866,4882,56.58
+qat,Qatar,Asia,1960,47384,15450,60.34
+qat,Qatar,Asia,1965,73633,48890,64.02
+qat,Qatar,Asia,1970,109514,154685,67.38
+qat,Qatar,Asia,1975,164413,156349,68.7
+qat,Qatar,Asia,1980,223775,130814,70.8
+qat,Qatar,Asia,1985,371081,74414,73.1
+qat,Qatar,Asia,1990,476445,70842,75.04
+qat,Qatar,Asia,1995,513455,75095,74.79
+qat,Qatar,Asia,2000,592267,108324,75.31
+qat,Qatar,Asia,2005,864863,109802,76.88
+qat,Qatar,Asia,2010,1779676,125141,79.52
+qat,Qatar,Asia,2015,2481539,119749,80.46
+rou,Romania,Europe,1950,16236296,3681,61.29
+rou,Romania,Europe,1955,17483935,5068,61.98
+rou,Romania,Europe,1960,18613939,6061,65.95
+rou,Romania,Europe,1965,19379568,7972,68.02
+rou,Romania,Europe,1970,20548911,9619,68.38
+rou,Romania,Europe,1975,21665643,12589,70.06
+rou,Romania,Europe,1980,22611971,13736,69.67
+rou,Romania,Europe,1985,23103646,13706,69.85
+rou,Romania,Europe,1990,23489373,11480,69.9
+rou,Romania,Europe,1995,22965111,10546,69.43
+rou,Romania,Europe,2000,22128128,10523,71.19
+rou,Romania,Europe,2005,21431018,14656,72.41
+rou,Romania,Europe,2010,20440347,17818,73.66
+rou,Romania,Europe,2015,19876621,20538,75.12
+rus,Russia,Europe,1950,102798657,7733,56.96
+rus,Russia,Europe,1955,111355221,9086,63
+rus,Russia,Europe,1960,119860288,10902,68.21
+rus,Russia,Europe,1965,126483875,12899,68.95
+rus,Russia,Europe,1970,130123431,15632,68.35
+rus,Russia,Europe,1975,133784384,17402,67.79
+rus,Russia,Europe,1980,138058710,18565,67.13
+rus,Russia,Europe,1985,142971168,19728,67.94
+rus,Russia,Europe,1990,147564066,20639,68.99
+rus,Russia,Europe,1995,148288839,12813,64.68
+rus,Russia,Europe,2000,146396514,14051,65.59
+rus,Russia,Europe,2005,143618185,19326,65.9
+rus,Russia,Europe,2010,143153869,23108,69.24
+rus,Russia,Europe,2015,143888004,24124,70.79
+rwa,Rwanda,Africa,1950,2186185,527,40.97
+rwa,Rwanda,Africa,1955,2525527,589,42.47
+rwa,Rwanda,Africa,1960,2933428,635,44.16
+rwa,Rwanda,Africa,1965,3232934,532,45.68
+rwa,Rwanda,Africa,1970,3754541,696,46.6
+rwa,Rwanda,Africa,1975,4359092,784,47.35
+rwa,Rwanda,Africa,1980,5140716,928,49.92
+rwa,Rwanda,Africa,1985,6120107,972,52.36
+rwa,Rwanda,Africa,1990,7235798,865,49.14
+rwa,Rwanda,Africa,1995,5928078,674,44.61
+rwa,Rwanda,Africa,2000,8025703,785,49.37
+rwa,Rwanda,Africa,2005,8991735,1034,57.7
+rwa,Rwanda,Africa,2010,10246842,1353,64.59
+rwa,Rwanda,Africa,2015,11629553,1716,67.31
+wsm,Samoa,Asia,1950,82097,2976,51.63
+wsm,Samoa,Asia,1955,94208,3153,54.77
+wsm,Samoa,Asia,1960,108646,3341,58.17
+wsm,Samoa,Asia,1965,127068,3539,61.6
+wsm,Samoa,Asia,1970,143176,3748,65.09
+wsm,Samoa,Asia,1975,151387,3273,65.6
+wsm,Samoa,Asia,1980,155557,3879,67.54
+wsm,Samoa,Asia,1985,160031,3636,68.22
+wsm,Samoa,Asia,1990,162866,3649,69.08
+wsm,Samoa,Asia,1995,170157,3686,69.74
+wsm,Samoa,Asia,2000,174610,4326,70.45
+wsm,Samoa,Asia,2005,179929,5335,71.16
+wsm,Samoa,Asia,2010,186205,5400,71.46
+wsm,Samoa,Asia,2015,193759,5559,71.72
+stp,Sao Tome and Principe,Africa,1950,60002,1158,47.26
+stp,Sao Tome and Principe,Africa,1955,58783,1084,49.47
+stp,Sao Tome and Principe,Africa,1960,64253,1238,52.5
+stp,Sao Tome and Principe,Africa,1965,64796,1671,55.49
+stp,Sao Tome and Principe,Africa,1970,74253,2076,58.48
+stp,Sao Tome and Principe,Africa,1975,82607,2281,61.6
+stp,Sao Tome and Principe,Africa,1980,94949,2953,62.99
+stp,Sao Tome and Principe,Africa,1985,103634,2470,62.4
+stp,Sao Tome and Principe,Africa,1990,113893,2088,63.25
+stp,Sao Tome and Principe,Africa,1995,126454,2035,63.78
+stp,Sao Tome and Principe,Africa,2000,138606,1998,64.56
+stp,Sao Tome and Principe,Africa,2005,155630,2227,66.14
+stp,Sao Tome and Principe,Africa,2010,174776,2642,68.91
+stp,Sao Tome and Principe,Africa,2015,195553,2942,70.29
+sau,Saudi Arabia,Asia,1950,3121335,2306,48.35
+sau,Saudi Arabia,Asia,1955,3558155,4861,51.42
+sau,Saudi Arabia,Asia,1960,4086539,10245,54.88
+sau,Saudi Arabia,Asia,1965,4843635,21584,58.76
+sau,Saudi Arabia,Asia,1970,5836389,45462,64.55
+sau,Saudi Arabia,Asia,1975,7428703,78355,68.64
+sau,Saudi Arabia,Asia,1980,9740599,84322,71.06
+sau,Saudi Arabia,Asia,1985,13189115,42769,72.02
+sau,Saudi Arabia,Asia,1990,16326815,42457,72.07
+sau,Saudi Arabia,Asia,1995,18735841,43981,72.87
+sau,Saudi Arabia,Asia,2000,20764312,43071,73.01
+sau,Saudi Arabia,Asia,2005,23905654,45538,73.88
+sau,Saudi Arabia,Asia,2010,27425676,45421,75.13
+sau,Saudi Arabia,Asia,2015,31557144,50724,76.75
+sen,Senegal,Africa,1950,2486635,1744,40.37
+sen,Senegal,Africa,1955,2808225,1905,43.21
+sen,Senegal,Africa,1960,3206749,2023,45.53
+sen,Senegal,Africa,1965,3682876,2126,46.16
+sen,Senegal,Africa,1970,4257505,2029,47.56
+sen,Senegal,Africa,1975,4936209,1984,49.34
+sen,Senegal,Africa,1980,5592646,1814,52.35
+sen,Senegal,Africa,1985,6484738,1810,55.51
+sen,Senegal,Africa,1990,7555617,1842,57.55
+sen,Senegal,Africa,1995,8746606,1763,58.36
+sen,Senegal,Africa,2000,9884052,1908,59.64
+sen,Senegal,Africa,2005,11251266,2104,61.71
+sen,Senegal,Africa,2010,12916229,2181,64.01
+sen,Senegal,Africa,2015,14976994,2297,65.87
+srb,Serbia,Europe,1950,6732256,4549,59.74
+srb,Serbia,Europe,1955,7234922,5200,62.05
+srb,Serbia,Europe,1960,7556725,6954,64.83
+srb,Serbia,Europe,1965,7835082,8638,67.65
+srb,Serbia,Europe,1970,8119860,10410,70.01
+srb,Serbia,Europe,1975,8497170,13212,71.14
+srb,Serbia,Europe,1980,8908293,16313,71.7
+srb,Serbia,Europe,1985,9253405,16679,72.08
+srb,Serbia,Europe,1990,9517674,14912,72.6
+srb,Serbia,Europe,1995,9884147,7393,70.73
+srb,Serbia,Europe,2000,9487615,7985,72.16
+srb,Serbia,Europe,2005,9214986,10901,73.22
+srb,Serbia,Europe,2010,9029716,12688,74.65
+srb,Serbia,Europe,2015,8851280,13278,75.74
+syc,Seychelles,Africa,1950,36325,4850,57.79
+syc,Seychelles,Africa,1955,38909,5501,58.13
+syc,Seychelles,Africa,1960,41540,6027,60.89
+syc,Seychelles,Africa,1965,46772,6212,63.42
+syc,Seychelles,Africa,1970,52365,6569,65.39
+syc,Seychelles,Africa,1975,59590,8323,68.04
+syc,Seychelles,Africa,1980,66294,10961,70.36
+syc,Seychelles,Africa,1985,69836,11467,69.85
+syc,Seychelles,Africa,1990,70624,14217,69.31
+syc,Seychelles,Africa,1995,76703,15097,70.4
+syc,Seychelles,Africa,2000,81151,18453,71.15
+syc,Seychelles,Africa,2005,88744,17812,72.07
+syc,Seychelles,Africa,2010,91405,20365,73.38
+syc,Seychelles,Africa,2015,93742,25525,73.7
+sle,Sierra Leone,Africa,1950,2041203,1042,35.65
+sle,Sierra Leone,Africa,1955,2157753,1171,37.24
+sle,Sierra Leone,Africa,1960,2297110,1280,39.06
+sle,Sierra Leone,Africa,1965,2473294,1351,41.1
+sle,Sierra Leone,Africa,1970,2692259,1585,45.6
+sle,Sierra Leone,Africa,1975,2993876,1528,47.29
+sle,Sierra Leone,Africa,1980,3365441,1467,48.21
+sle,Sierra Leone,Africa,1985,3799550,1336,49.24
+sle,Sierra Leone,Africa,1990,4312246,1251,50.6
+sle,Sierra Leone,Africa,1995,4274819,956,49.94
+sle,Sierra Leone,Africa,2000,4564297,913,50.93
+sle,Sierra Leone,Africa,2005,5658379,1048,52.45
+sle,Sierra Leone,Africa,2010,6458720,1217,55.05
+sle,Sierra Leone,Africa,2015,7237025,1316,57.62
+sgp,Singapore,Asia,1950,1022096,5028,58.79
+sgp,Singapore,Asia,1955,1305091,4199,62.81
+sgp,Singapore,Asia,1960,1633086,4992,65.99
+sgp,Singapore,Asia,1965,1877808,6144,67.43
+sgp,Singapore,Asia,1970,2072290,10341,68.68
+sgp,Singapore,Asia,1975,2259748,14751,70.39
+sgp,Singapore,Asia,1980,2411700,20895,71.58
+sgp,Singapore,Asia,1985,2705535,25261,73.21
+sgp,Singapore,Asia,1990,3012953,34340,75.48
+sgp,Singapore,Asia,1995,3478779,44915,77.4
+sgp,Singapore,Asia,2000,3913960,51699,79.38
+sgp,Singapore,Asia,2005,4491042,61965,80.93
+sgp,Singapore,Asia,2010,5074252,72105,82.69
+sgp,Singapore,Asia,2015,5535262,80892,83.58
+svk,Slovak Republic,Europe,1950,3436573,6029,60.97
+svk,Slovak Republic,Europe,1955,3815402,6759,67.93
+svk,Slovak Republic,Europe,1960,4140129,8810,70.45
+svk,Slovak Republic,Europe,1965,4383452,9547,70.41
+svk,Slovak Republic,Europe,1970,4538841,11163,69.85
+svk,Slovak Republic,Europe,1975,4752540,12778,70.4
+svk,Slovak Republic,Europe,1980,4996731,13787,70.57
+svk,Slovak Republic,Europe,1985,5166798,14454,70.83
+svk,Slovak Republic,Europe,1990,5288454,14706,71.07
+svk,Slovak Republic,Europe,1995,5375470,13184,72.38
+svk,Slovak Republic,Europe,2000,5399211,15605,73.26
+svk,Slovak Republic,Europe,2005,5398963,20021,74.2
+svk,Slovak Republic,Europe,2010,5404294,25159,75.52
+svk,Slovak Republic,Europe,2015,5439318,28254,76.84
+svn,Slovenia,Europe,1950,1473093,5170,63.41
+svn,Slovenia,Europe,1955,1527206,6004,65.71
+svn,Slovenia,Europe,1960,1586637,8158,67.43
+svn,Slovenia,Europe,1965,1629434,10300,67.89
+svn,Slovenia,Europe,1970,1669581,12618,68.02
+svn,Slovenia,Europe,1975,1742623,16283,69.33
+svn,Slovenia,Europe,1980,1835837,20447,70.48
+svn,Slovenia,Europe,1985,1945135,21267,71.69
+svn,Slovenia,Europe,1990,2006479,19347,73.54
+svn,Slovenia,Europe,1995,1991472,18431,74.47
+svn,Slovenia,Europe,2000,1988499,22723,75.94
+svn,Slovenia,Europe,2005,1996281,26955,77.5
+svn,Slovenia,Europe,2010,2045168,28678,79.45
+svn,Slovenia,Europe,2015,2074788,29097,80.7
+slb,Solomon Islands,Asia,1950,89794,941,44.61
+slb,Solomon Islands,Asia,1955,102024,1023,46.91
+slb,Solomon Islands,Asia,1960,117866,1113,49.46
+slb,Solomon Islands,Asia,1965,136847,1210,52.02
+slb,Solomon Islands,Asia,1970,160290,1215,54.6
+slb,Solomon Islands,Asia,1975,193445,923,54.67
+slb,Solomon Islands,Asia,1980,230607,1293,58.94
+slb,Solomon Islands,Asia,1985,270801,1479,59.84
+slb,Solomon Islands,Asia,1990,311840,1793,60.16
+slb,Solomon Islands,Asia,1995,359225,2284,61
+slb,Solomon Islands,Asia,2000,412609,1729,61.45
+slb,Solomon Islands,Asia,2005,469885,1600,61.04
+slb,Solomon Islands,Asia,2010,527790,1783,61.71
+slb,Solomon Islands,Asia,2015,587482,2053,62.8
+som,Somalia,Africa,1950,2264082,997,38.91
+som,Somalia,Africa,1955,2491520,1126,41.41
+som,Somalia,Africa,1960,2755947,1210,44.16
+som,Somalia,Africa,1965,3068437,1034,46.97
+som,Somalia,Africa,1970,3444553,1083,49.8
+som,Somalia,Africa,1975,3880320,1148,47.94
+som,Somalia,Africa,1980,6359126,837,50.78
+som,Somalia,Africa,1985,6791716,919,50.28
+som,Somalia,Africa,1990,7397347,930,50.66
+som,Somalia,Africa,1995,7704894,637,51.41
+som,Somalia,Africa,2000,9011479,603,52.06
+som,Somalia,Africa,2005,10409925,616,53.9
+som,Somalia,Africa,2010,12053223,614,53.13
+som,Somalia,Africa,2015,13908129,623,57.25
+zaf,South Africa,Africa,1950,13628428,7084,46.44
+zaf,South Africa,Africa,1955,15376829,7580,49.95
+zaf,South Africa,Africa,1960,17456855,7869,52.71
+zaf,South Africa,Africa,1965,19942303,8977,54.98
+zaf,South Africa,Africa,1970,22839451,10044,57.21
+zaf,South Africa,Africa,1975,26212405,10712,58.75
+zaf,South Africa,Africa,1980,29760471,11121,59.86
+zaf,South Africa,Africa,1985,33730148,10247,61.92
+zaf,South Africa,Africa,1990,37560525,9899,64.39
+zaf,South Africa,Africa,1995,42088165,9177,64.25
+zaf,South Africa,Africa,2000,45728315,9716,55.43
+zaf,South Africa,Africa,2005,48820586,11058,51.08
+zaf,South Africa,Africa,2010,51584663,12029,54.27
+zaf,South Africa,Africa,2015,55291225,12425,61.77
+kor,South Korea,Asia,1950,19211385,793,43.46
+kor,South Korea,Asia,1955,21531331,1117,50.09
+kor,South Korea,Asia,1960,25340918,1151,53.62
+kor,South Korea,Asia,1965,28907071,1382,57.52
+kor,South Korea,Asia,1970,32209314,2084,61.98
+kor,South Korea,Asia,1975,35386507,3986,64.28
+kor,South Korea,Asia,1980,38050424,4741,67.49
+kor,South Korea,Asia,1985,40808569,6726,69.79
+kor,South Korea,Asia,1990,42923131,11633,72.03
+kor,South Korea,Asia,1995,45298611,16566,74.16
+kor,South Korea,Asia,2000,47386312,20757,75.98
+kor,South Korea,Asia,2005,48708497,25517,78.35
+kor,South Korea,Asia,2010,49552855,30352,80.13
+kor,South Korea,Asia,2015,50593662,34178,80.94
+ssd,South Sudan,Africa,1950,2582929,1886,34.6
+ssd,South Sudan,Africa,1955,2721544,2126,38.56
+ssd,South Sudan,Africa,1960,2955152,2448,42.26
+ssd,South Sudan,Africa,1965,3263638,2399,45.73
+ssd,South Sudan,Africa,1970,3647709,2206,49.1
+ssd,South Sudan,Africa,1975,4119438,2302,50.27
+ssd,South Sudan,Africa,1980,4705224,2398,51.19
+ssd,South Sudan,Africa,1985,5450424,2073,51.44
+ssd,South Sudan,Africa,1990,5768481,1981,51.58
+ssd,South Sudan,Africa,1995,5459519,2098,53.37
+ssd,South Sudan,Africa,2000,6700656,2642,54.52
+ssd,South Sudan,Africa,2005,8108877,3171,56.6
+ssd,South Sudan,Africa,2010,10067192,3790,58.13
+ssd,South Sudan,Africa,2015,11882136,1808,58.9
+esp,Spain,Europe,1950,28069735,3964,61.64
+esp,Spain,Europe,1955,29125354,5115,66.52
+esp,Spain,Europe,1960,30489242,5739,68.98
+esp,Spain,Europe,1965,32241041,9013,70.68
+esp,Spain,Europe,1970,33980276,12095,71.91
+esp,Spain,Europe,1975,35975317,16096,73.46
+esp,Spain,Europe,1980,37796795,17879,75.37
+esp,Spain,Europe,1985,38835884,19025,76.43
+esp,Spain,Europe,1990,39306102,23759,77.11
+esp,Spain,Europe,1995,39890498,25051,78.15
+esp,Spain,Europe,2000,40903711,29967,79.39
+esp,Spain,Europe,2005,44042632,32902,80.47
+esp,Spain,Europe,2010,46788630,32506,81.94
+esp,Spain,Europe,2015,46397664,32216,82.87
+lka,Sri Lanka,Asia,1950,7971098,1835,52.98
+lka,Sri Lanka,Asia,1955,8778449,1948,57.29
+lka,Sri Lanka,Asia,1960,9874481,1883,60.02
+lka,Sri Lanka,Asia,1965,11110828,1934,62.29
+lka,Sri Lanka,Asia,1970,12485756,2187,64.87
+lka,Sri Lanka,Asia,1975,13755161,2252,64.88
+lka,Sri Lanka,Asia,1980,15035856,2725,68.89
+lka,Sri Lanka,Asia,1985,16179796,3281,70.35
+lka,Sri Lanka,Asia,1990,17329713,3666,71.58
+lka,Sri Lanka,Asia,1995,18247121,4505,72.22
+lka,Sri Lanka,Asia,2000,18781938,5580,72.75
+lka,Sri Lanka,Asia,2005,19524558,6527,74.08
+lka,Sri Lanka,Asia,2010,20198353,8563,74.42
+lka,Sri Lanka,Asia,2015,20714040,11062,77.17
+lca,St. Lucia,Americas,1950,82784,1497,53.77
+lca,St. Lucia,Americas,1955,86654,1862,55.52
+lca,St. Lucia,Americas,1960,89897,2314,59.52
+lca,St. Lucia,Americas,1965,96302,2874,63.04
+lca,St. Lucia,Americas,1970,104160,3570,65.69
+lca,St. Lucia,Americas,1975,109769,4152,67.08
+lca,St. Lucia,Americas,1980,117987,5301,68.91
+lca,St. Lucia,Americas,1985,126418,6432,70.32
+lca,St. Lucia,Americas,1990,138185,9093,71.89
+lca,St. Lucia,Americas,1995,147044,9604,73.15
+lca,St. Lucia,Americas,2000,156949,10006,74.18
+lca,St. Lucia,Americas,2005,163714,10384,74.17
+lca,St. Lucia,Americas,2010,172580,10842,75.48
+lca,St. Lucia,Americas,2015,177206,10677,76.14
+vct,St. Vincent and the Grenadines,Americas,1950,66998,2136,49.79
+vct,St. Vincent and the Grenadines,Americas,1955,73523,2502,52.6
+vct,St. Vincent and the Grenadines,Americas,1960,80949,2931,57.77
+vct,St. Vincent and the Grenadines,Americas,1965,85970,2906,62.39
+vct,St. Vincent and the Grenadines,Americas,1970,90452,3004,64.78
+vct,St. Vincent and the Grenadines,Americas,1975,95611,2733,66.61
+vct,St. Vincent and the Grenadines,Americas,1980,100505,3451,68.97
+vct,St. Vincent and the Grenadines,Americas,1985,104477,4291,70.36
+vct,St. Vincent and the Grenadines,Americas,1990,107505,5576,70.63
+vct,St. Vincent and the Grenadines,Americas,1995,108122,6618,70.43
+vct,St. Vincent and the Grenadines,Americas,2000,107898,7555,70.22
+vct,St. Vincent and the Grenadines,Americas,2005,108744,9318,71.17
+vct,St. Vincent and the Grenadines,Americas,2010,109315,9916,71.64
+vct,St. Vincent and the Grenadines,Americas,2015,109455,10463,71.63
+sdn,Sudan,Africa,1950,5733789,1794,43.63
+sdn,Sudan,Africa,1955,6549298,2001,46.11
+sdn,Sudan,Africa,1960,7544491,2280,48.46
+sdn,Sudan,Africa,1965,8770097,2212,50.55
+sdn,Sudan,Africa,1970,10281700,2014,52.56
+sdn,Sudan,Africa,1975,12144135,2082,53.53
+sdn,Sudan,Africa,1980,14507468,2149,54.91
+sdn,Sudan,Africa,1985,17210187,1841,50.54
+sdn,Sudan,Africa,1990,20147590,1743,58.56
+sdn,Sudan,Africa,1995,24102986,1961,60.41
+sdn,Sudan,Africa,2000,27250535,2287,62.59
+sdn,Sudan,Africa,2005,30911914,2713,64.88
+sdn,Sudan,Africa,2010,34385963,3366,66.29
+sdn,Sudan,Africa,2015,38647803,4290,68.01
+sur,Suriname,Americas,1950,215002,5516,55.57
+sur,Suriname,Americas,1955,250088,6189,58.49
+sur,Suriname,Americas,1960,289966,6944,60.78
+sur,Suriname,Americas,1965,331793,7790,62.71
+sur,Suriname,Americas,1970,371273,8738,64.59
+sur,Suriname,Americas,1975,362654,9590,65.03
+sur,Suriname,Americas,1980,362777,10765,66.12
+sur,Suriname,Americas,1985,371470,11083,68.78
+sur,Suriname,Americas,1990,407472,10545,70.14
+sur,Suriname,Americas,1995,443724,9616,70.29
+sur,Suriname,Americas,2000,472390,9731,69.69
+sur,Suriname,Americas,2005,498946,12168,69.46
+sur,Suriname,Americas,2010,526103,14212,70.32
+sur,Suriname,Americas,2015,553208,14767,71.17
+swz,Swaziland,Africa,1950,273003,1444,42.7
+swz,Swaziland,Africa,1955,307226,1609,44.96
+swz,Swaziland,Africa,1960,349174,1921,46.99
+swz,Swaziland,Africa,1965,391546,3282,48.72
+swz,Swaziland,Africa,1970,445729,4289,51.31
+swz,Swaziland,Africa,1975,517024,5251,54.85
+swz,Swaziland,Africa,1980,603372,5174,57.69
+swz,Swaziland,Africa,1985,705085,5453,60.11
+swz,Swaziland,Africa,1990,861373,5378,62.24
+swz,Swaziland,Africa,1995,960792,5606,59.37
+swz,Swaziland,Africa,2000,1061468,5839,47.49
+swz,Swaziland,Africa,2005,1105873,6746,42.33
+swz,Swaziland,Africa,2010,1202843,7297,46.98
+swz,Swaziland,Africa,2015,1319011,8054,56.36
+swe,Sweden,Europe,1950,7009912,11981,71.02
+swe,Sweden,Europe,1955,7262623,13183,72.47
+swe,Sweden,Europe,1960,7482543,15106,72.9
+swe,Sweden,Europe,1965,7745673,19155,73.73
+swe,Sweden,Europe,1970,8054916,22070,74.55
+swe,Sweden,Europe,1975,8197340,25374,75.06
+swe,Sweden,Europe,1980,8316338,26034,75.86
+swe,Sweden,Europe,1985,8357652,28230,76.91
+swe,Sweden,Europe,1990,8567384,30934,77.64
+swe,Sweden,Europe,1995,8836420,31077,78.84
+swe,Sweden,Europe,2000,8881640,36855,79.66
+swe,Sweden,Europe,2005,9038623,41227,80.5
+swe,Sweden,Europe,2010,9390168,42943,81.52
+swe,Sweden,Europe,2015,9763565,45488,82.06
+che,Switzerland,Europe,1950,4668086,20418,68.83
+che,Switzerland,Europe,1955,4970806,24274,69.96
+che,Switzerland,Europe,1960,5296118,27644,71.31
+che,Switzerland,Europe,1965,5829956,32037,72.19
+che,Switzerland,Europe,1970,6169358,37239,72.99
+che,Switzerland,Europe,1975,6356185,38037,74.69
+che,Switzerland,Europe,1980,6303610,41568,75.63
+che,Switzerland,Europe,1985,6456224,43451,76.88
+che,Switzerland,Europe,1990,6674890,47768,77.44
+che,Switzerland,Europe,1995,7018525,45860,78.46
+che,Switzerland,Europe,2000,7167250,50314,79.87
+che,Switzerland,Europe,2005,7410308,52350,81.18
+che,Switzerland,Europe,2010,7831971,55542,82.21
+che,Switzerland,Europe,2015,8319769,56511,83.09
+syr,Syria,Asia,1950,3413331,1794,51.09
+syr,Syria,Asia,1955,3911501,2261,54.08
+syr,Syria,Asia,1960,4573512,2247,57.24
+syr,Syria,Asia,1965,5373137,2810,60.62
+syr,Syria,Asia,1970,6350541,2582,64.73
+syr,Syria,Asia,1975,7535714,4071,67.19
+syr,Syria,Asia,1980,8930774,4777,68.89
+syr,Syria,Asia,1985,10648632,4653,70.07
+syr,Syria,Asia,1990,12446171,3809,70.96
+syr,Syria,Asia,1995,14345492,4894,72.12
+syr,Syria,Asia,2000,16410848,5188,73.32
+syr,Syria,Asia,2005,18294611,5738,74.91
+syr,Syria,Asia,2010,21018834,6603,76.15
+syr,Syria,Asia,2015,18734987,3500,68.41
+tjk,Tajikistan,Asia,1950,1531501,2469,49.55
+tjk,Tajikistan,Asia,1955,1794414,2853,51.15
+tjk,Tajikistan,Asia,1960,2087038,3368,52.93
+tjk,Tajikistan,Asia,1965,2487953,3936,54.73
+tjk,Tajikistan,Asia,1970,2930079,4712,56.29
+tjk,Tajikistan,Asia,1975,3390935,4893,58.5
+tjk,Tajikistan,Asia,1980,3905413,4470,61.73
+tjk,Tajikistan,Asia,1985,4537789,4068,63.76
+tjk,Tajikistan,Asia,1990,5283728,3645,64.93
+tjk,Tajikistan,Asia,1995,5764712,1270,63.86
+tjk,Tajikistan,Asia,2000,6216205,1180,65.21
+tjk,Tajikistan,Asia,2005,6854176,1707,67.35
+tjk,Tajikistan,Asia,2010,7641630,2106,69.61
+tjk,Tajikistan,Asia,2015,8548651,2641,71.63
+tza,Tanzania,Africa,1950,7649761,942,44.25
+tza,Tanzania,Africa,1955,8740986,1048,46.49
+tza,Tanzania,Africa,1960,10074507,1073,48.37
+tza,Tanzania,Africa,1965,11683528,1189,50.11
+tza,Tanzania,Africa,1970,13605529,1392,52.27
+tza,Tanzania,Africa,1975,15980301,1504,54.21
+tza,Tanzania,Africa,1980,18683157,1535,55.8
+tza,Tanzania,Africa,1985,21836999,1381,56.38
+tza,Tanzania,Africa,1990,25459604,1473,54.86
+tza,Tanzania,Africa,1995,29960776,1368,52.9
+tza,Tanzania,Africa,2000,34178042,1482,52.86
+tza,Tanzania,Africa,2005,39410545,1820,55.3
+tza,Tanzania,Africa,2010,46098591,2091,59.3
+tza,Tanzania,Africa,2015,53879957,2491,63.49
+tha,Thailand,Asia,1950,20710360,1185,52.81
+tha,Thailand,Asia,1955,23711046,1358,54.75
+tha,Thailand,Asia,1960,27397175,1537,57.62
+tha,Thailand,Asia,1965,31822796,1855,60.13
+tha,Thailand,Asia,1970,36884913,2397,62.37
+tha,Thailand,Asia,1975,42334954,2781,64.98
+tha,Thailand,Asia,1980,47385323,3641,66.37
+tha,Thailand,Asia,1985,52041469,4363,68.81
+tha,Thailand,Asia,1990,56582821,6650,70.64
+tha,Thailand,Asia,1995,59491790,9381,70.91
+tha,Thailand,Asia,2000,62958021,9189,71.97
+tha,Thailand,Asia,2005,65425470,11525,74.16
+tha,Thailand,Asia,2010,67208808,13487,76.57
+tha,Thailand,Asia,2015,68657600,15237,77.62
+tls,Timor-Leste,Asia,1950,433397,704,31.5
+tls,Timor-Leste,Asia,1955,461385,711,34.14
+tls,Timor-Leste,Asia,1960,499950,719,37.06
+tls,Timor-Leste,Asia,1965,548218,726,40.06
+tls,Timor-Leste,Asia,1970,605125,733,43.88
+tls,Timor-Leste,Asia,1975,664984,774,42.98
+tls,Timor-Leste,Asia,1980,587563,871,46.96
+tls,Timor-Leste,Asia,1985,666945,981,54.45
+tls,Timor-Leste,Asia,1990,751933,1104,58
+tls,Timor-Leste,Asia,1995,871447,1560,60.89
+tls,Timor-Leste,Asia,2000,871607,1391,63.69
+tls,Timor-Leste,Asia,2005,1026484,1338,67.18
+tls,Timor-Leste,Asia,2010,1109591,1853,71.1
+tls,Timor-Leste,Asia,2015,1240977,2151,72.56
+tgo,Togo,Africa,1950,1395457,1034,37.01
+tgo,Togo,Africa,1955,1473839,1110,40.57
+tgo,Togo,Africa,1960,1580513,1238,44.42
+tgo,Togo,Africa,1965,1708630,1640,48.16
+tgo,Togo,Africa,1970,2115522,1878,51.86
+tgo,Togo,Africa,1975,2410446,1828,54
+tgo,Togo,Africa,1980,2720839,1883,55.9
+tgo,Togo,Africa,1985,3252994,1449,56.65
+tgo,Togo,Africa,1990,3786940,1350,57.39
+tgo,Togo,Africa,1995,4274024,1201,57.16
+tgo,Togo,Africa,2000,4970367,1277,56.32
+tgo,Togo,Africa,2005,5683268,1180,56.41
+tgo,Togo,Africa,2010,6502952,1208,58.74
+tgo,Togo,Africa,2015,7416802,1351,62.06
+ton,Tonga,Asia,1950,47220,1382,58.37
+ton,Tonga,Asia,1955,55323,1460,60.04
+ton,Tonga,Asia,1960,61601,1542,61.93
+ton,Tonga,Asia,1965,74362,1628,63.76
+ton,Tonga,Asia,1970,84369,1719,65.5
+ton,Tonga,Asia,1975,88348,1910,66.01
+ton,Tonga,Asia,1980,93007,2325,65.98
+ton,Tonga,Asia,1985,93953,3623,66.83
+ton,Tonga,Asia,1990,95153,3574,67.91
+ton,Tonga,Asia,1995,96076,4264,68.4
+ton,Tonga,Asia,2000,98082,4602,68.75
+ton,Tonga,Asia,2005,101041,4947,69.46
+ton,Tonga,Asia,2010,104137,4984,69.86
+ton,Tonga,Asia,2015,106364,5189,70.29
+tto,Trinidad and Tobago,Americas,1950,645635,4698,57.17
+tto,Trinidad and Tobago,Americas,1955,740035,5544,59.59
+tto,Trinidad and Tobago,Americas,1960,848479,8065,62.98
+tto,Trinidad and Tobago,Americas,1965,912417,9110,65
+tto,Trinidad and Tobago,Americas,1970,945993,10728,65.48
+tto,Trinidad and Tobago,Americas,1975,1011490,11913,66.51
+tto,Trinidad and Tobago,Americas,1980,1085308,16241,68.12
+tto,Trinidad and Tobago,Americas,1985,1170928,14041,68.96
+tto,Trinidad and Tobago,Americas,1990,1221900,12255,69.07
+tto,Trinidad and Tobago,Americas,1995,1255001,12871,69.33
+tto,Trinidad and Tobago,Americas,2000,1267984,18324,69.51
+tto,Trinidad and Tobago,Americas,2005,1296934,26429,71.34
+tto,Trinidad and Tobago,Americas,2010,1328100,31261,72.56
+tto,Trinidad and Tobago,Americas,2015,1360092,31283,73.07
+tun,Tunisia,Africa,1950,3605306,1755,42.1
+tun,Tunisia,Africa,1955,3943528,1865,43.79
+tun,Tunisia,Africa,1960,4176266,2183,46.74
+tun,Tunisia,Africa,1965,4545339,2719,51.27
+tun,Tunisia,Africa,1970,5060397,3034,57.55
+tun,Tunisia,Africa,1975,5652476,4076,62.15
+tun,Tunisia,Africa,1980,6368167,4922,65.62
+tun,Tunisia,Africa,1985,7321876,5304,69.85
+tun,Tunisia,Africa,1990,8232797,5615,71.74
+tun,Tunisia,Africa,1995,9113975,6131,72.97
+tun,Tunisia,Africa,2000,9699197,7574,75.01
+tun,Tunisia,Africa,2005,10102482,8803,76.07
+tun,Tunisia,Africa,2010,10639931,10436,76.89
+tun,Tunisia,Africa,2015,11273661,10750,77.38
+tur,Turkey,Europe,1950,21408401,3196,43.1
+tur,Turkey,Europe,1955,24270585,4300,45.47
+tur,Turkey,Europe,1960,27472331,4922,49.09
+tur,Turkey,Europe,1965,30972965,5544,53.28
+tur,Turkey,Europe,1970,34876267,7071,57.05
+tur,Turkey,Europe,1975,39277211,8833,60.18
+tur,Turkey,Europe,1980,43975921,8289,64.16
+tur,Turkey,Europe,1985,49133883,9746,68
+tur,Turkey,Europe,1990,53921699,11400,70.16
+tur,Turkey,Europe,1995,58486381,12310,70.92
+tur,Turkey,Europe,2000,63240121,13862,74.11
+tur,Turkey,Europe,2005,67903406,16310,76.65
+tur,Turkey,Europe,2010,72326914,17959,78.21
+tur,Turkey,Europe,2015,78271472,23382,78.95
+tkm,Turkmenistan,Asia,1950,1210994,5009,48.65
+tkm,Turkmenistan,Asia,1955,1364634,5868,50.39
+tkm,Turkmenistan,Asia,1960,1603258,7022,52.3
+tkm,Turkmenistan,Asia,1965,1892599,8285,54.23
+tkm,Turkmenistan,Asia,1970,2195173,10013,55.89
+tkm,Turkmenistan,Asia,1975,2525361,10539,58.68
+tkm,Turkmenistan,Asia,1980,2876808,9816,61.21
+tkm,Turkmenistan,Asia,1985,3244018,9106,62.93
+tkm,Turkmenistan,Asia,1990,3683966,8317,63.7
+tkm,Turkmenistan,Asia,1995,4207840,4601,63.12
+tkm,Turkmenistan,Asia,2000,4516131,5333,63.69
+tkm,Turkmenistan,Asia,2005,4754641,6495,65.35
+tkm,Turkmenistan,Asia,2010,5087210,9942,67.94
+tkm,Turkmenistan,Asia,2015,5565284,14992,69.9
+uga,Uganda,Africa,1950,5158190,832,39.95
+uga,Uganda,Africa,1955,5898835,822,42.36
+uga,Uganda,Africa,1960,6788214,881,45.21
+uga,Uganda,Africa,1965,8014401,972,48.27
+uga,Uganda,Africa,1970,9446064,1095,50.34
+uga,Uganda,Africa,1975,10827147,998,51.34
+uga,Uganda,Africa,1980,12549540,742,49.42
+uga,Uganda,Africa,1985,14646624,729,49.95
+uga,Uganda,Africa,1990,17438907,782,49.2
+uga,Uganda,Africa,1995,20550291,931,46.96
+uga,Uganda,Africa,2000,24039274,1067,48.71
+uga,Uganda,Africa,2005,28543940,1243,52.81
+uga,Uganda,Africa,2010,33915133,1540,56.81
+uga,Uganda,Africa,2015,40144870,1693,61.64
+ukr,Ukraine,Europe,1950,37297648,3971,61.35
+ukr,Ukraine,Europe,1955,40019449,4637,64.93
+ukr,Ukraine,Europe,1960,42662149,5531,69.39
+ukr,Ukraine,Europe,1965,45261935,6504,69.86
+ukr,Ukraine,Europe,1970,47086761,7835,69.02
+ukr,Ukraine,Europe,1975,48758987,8706,69.13
+ukr,Ukraine,Europe,1980,49968812,9329,68.63
+ukr,Ukraine,Europe,1985,50920778,9958,69.42
+ukr,Ukraine,Europe,1990,51464348,10464,69.88
+ukr,Ukraine,Europe,1995,50905677,5060,66.62
+ukr,Ukraine,Europe,2000,48840074,4797,67.44
+ukr,Ukraine,Europe,2005,46892163,7246,67.25
+ukr,Ukraine,Europe,2010,45792501,7824,70.41
+ukr,Ukraine,Europe,2015,44657704,7465,71.93
+are,United Arab Emirates,Asia,1950,69588,1208,43.36
+are,United Arab Emirates,Asia,1955,79578,1242,49.11
+are,United Arab Emirates,Asia,1960,92634,1767,54.98
+are,United Arab Emirates,Asia,1965,150362,8353,60.52
+are,United Arab Emirates,Asia,1970,235499,41814,65.24
+are,United Arab Emirates,Asia,1975,554324,163411,68.35
+are,United Arab Emirates,Asia,1980,1042384,177522,70.84
+are,United Arab Emirates,Asia,1985,1391052,125523,72.45
+are,United Arab Emirates,Asia,1990,1860174,111067,72.77
+are,United Arab Emirates,Asia,1995,2448820,101557,73.53
+are,United Arab Emirates,Asia,2000,3154925,103224,74.83
+are,United Arab Emirates,Asia,2005,4579562,92326,76.59
+are,United Arab Emirates,Asia,2010,8270684,57580,76.51
+are,United Arab Emirates,Asia,2015,9154302,65975,76.48
+gbr,United Kingdom,Europe,1950,50616014,11196,68.58
+gbr,United Kingdom,Europe,1955,51123707,12612,70.08
+gbr,United Kingdom,Europe,1960,52433157,13799,70.96
+gbr,United Kingdom,Europe,1965,54303107,15422,71.46
+gbr,United Kingdom,Europe,1970,55634935,17093,71.84
+gbr,United Kingdom,Europe,1975,56211947,18893,72.5
+gbr,United Kingdom,Europe,1980,56265475,20647,73.54
+gbr,United Kingdom,Europe,1985,56466131,22923,74.56
+gbr,United Kingdom,Europe,1990,57183331,26769,75.66
+gbr,United Kingdom,Europe,1995,57978321,28612,76.63
+gbr,United Kingdom,Europe,2000,58950848,32962,77.78
+gbr,United Kingdom,Europe,2005,60286754,36928,79.04
+gbr,United Kingdom,Europe,2010,63306843,36196,80.34
+gbr,United Kingdom,Europe,2015,65397080,38509,80.84
+usa,United States,Americas,1950,158804395,15317,68.07
+usa,United States,Americas,1955,171783842,17408,69.58
+usa,United States,Americas,1960,186808228,18058,69.86
+usa,United States,Americas,1965,199815540,21361,70.35
+usa,United States,Americas,1970,209588150,23908,70.86
+usa,United States,Americas,1975,219205296,25934,72.44
+usa,United States,Americas,1980,229763052,29619,73.91
+usa,United States,Americas,1985,240824120,33065,74.72
+usa,United States,Americas,1990,252529950,37062,75.4
+usa,United States,Americas,1995,265658849,39476,75.91
+usa,United States,Americas,2000,281982778,45986,76.9
+usa,United States,Americas,2005,295129501,49762,77.65
+usa,United States,Americas,2010,308641391,49373,78.74
+usa,United States,Americas,2015,319929162,52790,78.85
+ury,Uruguay,Americas,1950,2238507,8133,65.76
+ury,Uruguay,Americas,1955,2372568,8951,66.51
+ury,Uruguay,Americas,1960,2538651,7998,67.73
+ury,Uruguay,Americas,1965,2694537,7606,68.47
+ury,Uruguay,Americas,1970,2809803,7934,68.57
+ury,Uruguay,Americas,1975,2830172,8284,68.79
+ury,Uruguay,Americas,1980,2915778,10034,70.21
+ury,Uruguay,Americas,1985,3011908,8478,71.64
+ury,Uruguay,Americas,1990,3109989,9841,72.8
+ury,Uruguay,Americas,1995,3224804,11511,73.51
+ury,Uruguay,Americas,2000,3321245,12875,74.82
+ury,Uruguay,Americas,2005,3325612,12976,75.59
+ury,Uruguay,Americas,2010,3374415,17082,76.36
+ury,Uruguay,Americas,2015,3431552,19831,77.14
+uzb,Uzbekistan,Asia,1950,6264056,1732,55.18
+uzb,Uzbekistan,Asia,1955,7297296,1999,57.15
+uzb,Uzbekistan,Asia,1960,8549493,2356,59.3
+uzb,Uzbekistan,Asia,1965,10143740,2777,61.47
+uzb,Uzbekistan,Asia,1970,12110028,3352,63.37
+uzb,Uzbekistan,Asia,1975,13892638,3568,65.23
+uzb,Uzbekistan,Asia,1980,15939744,3420,66.34
+uzb,Uzbekistan,Asia,1985,18108300,3266,67.62
+uzb,Uzbekistan,Asia,1990,20462463,3071,68.28
+uzb,Uzbekistan,Asia,1995,22863264,2242,66.16
+uzb,Uzbekistan,Asia,2000,24848920,2504,66.36
+uzb,Uzbekistan,Asia,2005,26512184,3069,66.69
+uzb,Uzbekistan,Asia,2010,28606294,4240,68.77
+uzb,Uzbekistan,Asia,2015,30976021,5700,70.05
+vut,Vanuatu,Asia,1950,47697,1295,43.62
+vut,Vanuatu,Asia,1955,54924,1382,46.69
+vut,Vanuatu,Asia,1960,63699,1474,50.12
+vut,Vanuatu,Asia,1965,74289,1573,53.58
+vut,Vanuatu,Asia,1970,85389,1678,56.98
+vut,Vanuatu,Asia,1975,99872,2103,58.82
+vut,Vanuatu,Asia,1980,115632,1989,60.44
+vut,Vanuatu,Asia,1985,130027,2678,61.38
+vut,Vanuatu,Asia,1990,146634,2549,61.86
+vut,Vanuatu,Asia,1995,168235,2609,62.25
+vut,Vanuatu,Asia,2000,185063,2823,62.39
+vut,Vanuatu,Asia,2005,209370,2610,62.25
+vut,Vanuatu,Asia,2010,236295,2948,63.02
+vut,Vanuatu,Asia,2015,264603,2807,63.64
+ven,Venezuela,Americas,1950,5481978,11040,55.34
+ven,Venezuela,Americas,1955,6758373,12515,58.05
+ven,Venezuela,Americas,1960,8146847,12968,61.12
+ven,Venezuela,Americas,1965,9824692,14000,64.15
+ven,Venezuela,Americas,1970,11587761,15323,66.89
+ven,Venezuela,Americas,1975,13360987,17624,67.89
+ven,Venezuela,Americas,1980,15343916,18030,69.96
+ven,Venezuela,Americas,1985,17508059,13796,71.79
+ven,Venezuela,Americas,1990,19861956,14451,72.69
+ven,Venezuela,Americas,1995,22188667,15323,73.03
+ven,Venezuela,Americas,2000,24488340,14413,74.3
+ven,Venezuela,Americas,2005,26784161,14948,75.14
+ven,Venezuela,Americas,2010,29028033,16545,75.41
+ven,Venezuela,Americas,2015,31155134,15581,75.51
+vnm,Vietnam,Asia,1950,24809906,961,47.85
+vnm,Vietnam,Asia,1955,28147786,1086,50.96
+vnm,Vietnam,Asia,1960,32670629,1150,53.94
+vnm,Vietnam,Asia,1965,37860012,1257,56.31
+vnm,Vietnam,Asia,1970,43407287,1053,53.85
+vnm,Vietnam,Asia,1975,48729392,1023,61.19
+vnm,Vietnam,Asia,1980,54372514,1097,64.46
+vnm,Vietnam,Asia,1985,61049373,1345,66.53
+vnm,Vietnam,Asia,1990,68209605,1501,68.19
+vnm,Vietnam,Asia,1995,75198977,2042,69.49
+vnm,Vietnam,Asia,2000,80285562,2650,70.71
+vnm,Vietnam,Asia,2005,84308843,3485,71.77
+vnm,Vietnam,Asia,2010,88472512,4486,73.07
+vnm,Vietnam,Asia,2015,93571567,5667,74.28
+yem,Yemen,Asia,1950,4402320,1338,23.76
+yem,Yemen,Asia,1955,4767587,1383,28.11
+yem,Yemen,Asia,1960,5172135,1415,32.96
+yem,Yemen,Asia,1965,5643643,1462,37.65
+yem,Yemen,Asia,1970,6193810,1805,41.99
+yem,Yemen,Asia,1975,6830692,2616,48.58
+yem,Yemen,Asia,1980,8120497,3358,53.15
+yem,Yemen,Asia,1985,9847899,3417,56.56
+yem,Yemen,Asia,1990,12057039,3327,58.71
+yem,Yemen,Asia,1995,15320653,3532,60.46
+yem,Yemen,Asia,2000,17874725,3894,62.61
+yem,Yemen,Asia,2005,20582927,4155,64.97
+yem,Yemen,Asia,2010,23606779,4479,67.51
+yem,Yemen,Asia,2015,26916207,2641,67.19
+zmb,Zambia,Africa,1950,2310442,2592,45.68
+zmb,Zambia,Africa,1955,2634464,2831,48.04
+zmb,Zambia,Africa,1960,3044846,3108,50.59
+zmb,Zambia,Africa,1965,3563407,3451,52.93
+zmb,Zambia,Africa,1970,4173928,3819,55.64
+zmb,Zambia,Africa,1975,4964831,3586,57.64
+zmb,Zambia,Africa,1980,5889230,2932,57.78
+zmb,Zambia,Africa,1985,6955212,2538,56.31
+zmb,Zambia,Africa,1990,8027253,2342,52.27
+zmb,Zambia,Africa,1995,9137077,2029,46.45
+zmb,Zambia,Africa,2000,10531221,2103,44.15
+zmb,Zambia,Africa,2005,12052156,2483,45.99
+zmb,Zambia,Africa,2010,13850033,3279,52.02
+zmb,Zambia,Africa,2015,16100587,3627,58.08
+zwe,Zimbabwe,Africa,1950,2746852,1508,49.55
+zwe,Zimbabwe,Africa,1955,3202015,1739,51.64
+zwe,Zimbabwe,Africa,1960,3747369,1996,53.84
+zwe,Zimbabwe,Africa,1965,4410212,2086,55.8
+zwe,Zimbabwe,Africa,1970,5175618,2564,57.6
+zwe,Zimbabwe,Africa,1975,6115370,2725,59.07
+zwe,Zimbabwe,Africa,1980,7164172,2413,60.43
+zwe,Zimbabwe,Africa,1985,8658857,2449,63.09
+zwe,Zimbabwe,Africa,1990,10183113,2593,61.69
+zwe,Zimbabwe,Africa,1995,11320346,2476,53.69
+zwe,Zimbabwe,Africa,2000,12222251,2571,46.69
+zwe,Zimbabwe,Africa,2005,12940032,1654,45.31
+zwe,Zimbabwe,Africa,2010,14086317,1460,49.57
+zwe,Zimbabwe,Africa,2015,15777451,1891,58.27

@@ -4,7 +4,7 @@
 #' @format A tibble with 100 rows and 2 variables:
 #' \describe{
 #'   \item{`soil.moisture.content`}{dbl: soil moisture content}
-#'   \item{`plant.growth.rate`}{dbl: plant growth rate} 
+#'   \item{`plant.growth.rate`}{dbl: plant growth rate mm/week} 
 
 
 #' }

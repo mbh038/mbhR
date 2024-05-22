@@ -8,7 +8,7 @@
 A tibble with 100 rows and 2 variables:
 \describe{
 \item{\code{soil.moisture.content}}{dbl: soil moisture content}
-\item{\code{plant.growth.rate}}{dbl: plant growth rate}
+\item{\code{plant.growth.rate}}{dbl: plant growth rate mm/week}
 }
 }
 \source{
